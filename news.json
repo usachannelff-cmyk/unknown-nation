@@ -1,10 +1,59 @@
 [
   {
-    "category": "Gaming",
+    "category": "Sports",
     "source": "Google News",
-    "title": "Welsh character Rhiannon introduced to Chinese game Reverse: 1999 - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XS2wxSkU2Uzd4UHBuSFhYSXhRa1lyLVNqS1RTZ1JPX0hkUFAtUWFDMWNCQ0YyUkh1QmdIdm50YjloeGd2SC1kdm9zbklackVVWmxxZHU2RFdtZw?oc=5",
-    "published": "2026-10-10 20:51 UTC"
+    "title": "Thin Patriots Ranks at Cornerback Propel Safeties Reed, Brown into Spotlight Roles on Sunday - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEo1MkN0UjloOGFtRG5PNE16a1dqTEJiay0zeV96VVEtTXRfZW9ZQ0tKV3E2SVExcDJtOGRHeHpXT2sxZmZhanZlLU5JLXNMQWxKT1I2UGFBLW1uMm5fY2hkbXhhMXJuRWRLN1ZWTDh5RkpQTU9heXN6UkQxeFRVTlZpLU81R29BWFZJVmd4dw?oc=5",
+    "published": "2026-10-11 00:01 UTC"
+  },
+  {
+    "category": "Sports",
+    "source": "Google News",
+    "title": "Will Hrgovic be Facing Verhoeven in his First Defence of the IBF Heavyweight Title? - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnRvT2tacEVYU2NiRWdibEFnaXREYWhLY3RzbW00aWlJV0U3bHdnX0lvTmdDd2g5RVFHWDNGNXp4dEw5bVhqRkRVY3pna3RMNDNrZUgyMG5SZUFaa0hLRk01aTRYa2txMTVhR2V3Zko4Vm5TSjFOaXlqQnVHcDZ2eW9rWDhwelZRMWR0bHJaVEE?oc=5",
+    "published": "2026-10-10 23:39 UTC"
+  },
+  {
+    "category": "Sports",
+    "source": "Google News",
+    "title": "Maple Leafs Get Telling Sergei Bobrovsky Reaction From William Nylander - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXduX01rOS1VbjJXcDRYV3JWWXQxUklENHhPSTVld2JQUmFheE96U3d3SWplTGppNUF2eFpGZ3NScFlxQ0RUeWJIRmFfQ3I4eFh0MFZYNmZ2Mk1DX0tVTjgwYTl0VU1tSlUwSUdXSk5XdG41QVFWZnNRYXVfcmxrUHl4WWlLNnhKQU9sMDBn?oc=5",
+    "published": "2026-10-10 23:28 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+    "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-10 23:19 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+    "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-10 22:40 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+    "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-10 22:13 UTC"
+  },
+  {
+    "category": "India",
+    "source": "Google News",
+    "title": "BJP slams Rahul Gandhi for claiming Murmu accepted 'vote chori' - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOalhpc0ZwdDlIYlc3dkpaYmdGUmNubzZVeFBBSUQtZzJmNjdHbDhVSk52NDNkT0ZlcXJZMnR6NTkwU1NOUkJpbTZxYTJLYU40M21tZU96aGF1MnFyRFowbzlwT21kUVBVcURQa0w0OXlDZURNcmxpYlNkMnotaDJITi1BYWg1V0xCMmp0cDZHTmNSUk9WTVJveG1yUnQxQzdPcHZmMmhIYkRKN2FCMUtpM1NmUzk1Mm9DbXRyNjloWEpUTFpJZGROUdIBzgFBVV95cUxQVXUzMWlvLXExdTlIVjhjY3ZUUHplX2FOcGVMRFE4clFiU0ZDTGhMb0RWVW1HVGFrMzRKNzlaRnVsRU1scGF5Y0xfWEcwWEhobHZNNUppRDBnVlA4b04xUUtGRmF5djBrb1Y3aktOUmh4NHc0anVIVlBRazNYRnV5cE1ZY3hZd204Z2xmUzd0eVh5a09WODd2NFVrZmM0YkM3VEt2N0hnS2RsSHhuQmctSl9wcTREb2pjWEpjT29TTzNES29kTFlaN0ZMY051Zw?oc=5",
+    "published": "2026-10-10 21:43 UTC"
+  },
+  {
+    "category": "Sports",
+    "source": "Google News",
+    "title": "Cardinals are reportedly finalizing deal to trade Marvin Harrison Jr. - Arizona Sports",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONEFlNTlfdFRpRl9BaW05bUlheFplTlp0Z0QtU1FLbHZ1bXhJS0oyZjh5dEJmaThqMVVnZnFjNmJHaHZtMnplMnB0cW53dk9ETzVHOTdTRHhFY3AzT3RzdTFKTHoyWmdOLWlXS3JyMTBtY2pxNDAzM202MzFFQnV0dTBCcEFvLTFidDhjeVJEZmQwNUVOOU1SVXBIRFFwbmxpby1OM09GV2t6QU9ZVkRaSkdxazIxZmc?oc=5",
+    "published": "2026-10-10 21:05 UTC"
   },
   {
     "category": "World",
@@ -12,27 +61,6 @@
     "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
     "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
     "published": "2026-10-10 20:51 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Browns Facing Hurricane Isaias Trouble in Week 5 vs. Jets - Yahoo Sports",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmpIR0ZWUDNpVkdLSjAyZ2hSbWs2SVFsTE5iR0U3bFZ5YkZEcmRmVVhDWFV3V1FVbTh3MUdqMDkydEFIYm9Qa3BGcGZZWFlsclVYYXZ0TWhkOGNySHI5X3FhWXNSMUtZX1BjeG5IUUdvR21kd2hyNU5MdlFjdWFwLU05UnkzcXhJMU1xNjlfdy0?oc=5",
-    "published": "2026-10-10 20:41 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Jaguars waive recent draft pick ahead of Week 5 game - Yahoo Sports",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlVXY3RIM0RuYVdIZEl6WWhoeVRReXA0ank2Q0x0aXFLS1BUeHBzME00aGxpd1JycVpldzNweXdaZnpMNnFNWnc2T0N1eWttdTdQVEZwYXI1WEpxT25EdHExOTdPamJHclg1eloya2l3MGlaNDZpcUVBdzdQb1ZSS1hQdmdlUjQ?oc=5",
-    "published": "2026-10-10 20:41 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Texans activate S M.J. Stewart, DT Kayden McDonald - Yahoo Sports",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZVo5NUczM0tzUGRZeUd4SkNVU0Vqdzl0cFJXakdTay1DQjV1LWhaVThPYkJ1QXRvS3BNLUM0UnlnZmx3R3kzZV9KTHhmZ2hoazZSTkJneDlHa2s2OGZwc25uVmQ5aHNMQmx2cTgxQ1pwalJQZEk4ME9yN01VVmkyOVR3?oc=5",
-    "published": "2026-10-10 20:39 UTC"
   },
   {
     "category": "Sports",
@@ -47,20 +75,6 @@
     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
     "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
     "published": "2026-10-10 19:28 UTC"
-  },
-  {
-    "category": "World",
-    "source": "BBC",
-    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-    "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-10 19:08 UTC"
-  },
-  {
-    "category": "World",
-    "source": "BBC",
-    "title": "Several injured in attack on airport in Saudi capital Riyadh",
-    "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-10 18:37 UTC"
   },
   {
     "category": "World",
@@ -100,6 +114,13 @@
   {
     "category": "Gaming",
     "source": "Google News",
+    "title": "Wyoming lawmakers take steps to further restrict online gaming - Oil City News",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXo4OE9JRmEyWmdSZGJ0VU9iWmV5dVc0ZThGamRTeTZ3anhBVHNPb2RKN1FlNm93azFuT2FZSGp6dlllQmJmRU5TNkNZWXZnNm9jV2RxMDdHSmV0czRQYzZ6MFktbmhKLS1vWmdYVmVYSDBHRmQxbVo3U2lKR0pSS2R6WXJvY0xVdHBjZUNhcUpoMUptNHR0M1dFVjlTWGlRcXJIcjRSaFh2ZWxkQk1oV0RR?oc=5",
+    "published": "2026-10-10 16:44 UTC"
+  },
+  {
+    "category": "Gaming",
+    "source": "Google News",
     "title": "GTA 6 Leaker Threatens to Leak Playable Build of Grand Theft Auto VI From 'Beginning to End' - Insider Gaming",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxX2ZNd09QZzhmNlZZYk5wLXZwc0xUbjZVQjNpTDZraEdkc1UtUjJJTjZUelBmdjBRdWpNb2h4RDNOZXQ3MGpwWUV2UWhkZEtzWFRLcFA4RVBXUjQ?oc=5",
     "published": "2026-10-10 16:17 UTC"
@@ -110,6 +131,20 @@
     "title": "What to know about ‘NAZA,’ a documentary that looks at Israeli war technology - The Washington Post",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRjJTempXWXZMX1RTeThlV0NObGk3cU1ZNTV6UFRkM3J0NTVuM2JtaUxZQnI1aWZYM3J4ckwtSnVUVVpoWHlQTXJLNXRFUXd4Wk10a1NZSmE2SUxBVVNxal9EUXoyUU9KX1JJdjJjOE9PcWV3Qjh6TnUwaXg4SWVYd3VXS0ZkcDN5dnhJZHZYZkhlQmFUOVJWQmF2NHhCZzQzNk1MSEkxZDBuek0tZmlvdkhMTjhFSFlCY0dJU3FIYV9wV2UxZ0xISjVR?oc=5",
     "published": "2026-10-10 16:00 UTC"
+  },
+  {
+    "category": "Gaming",
+    "source": "Google News",
+    "title": "5 Best Video Games Like Dark Souls - SVG",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VWFE4aXpRckNlUEppOHc3elNVUzVuaHVjdkgtSjBJSjNsYmQ5cm9IMmN1RXNRUVBmTVJJUXk0c3E1aGxpZ2lUQjNFa1BVWlZBa08xRkZoRjd3VENfazNRM1JvVWowdGw2ZV8zT3RR?oc=5",
+    "published": "2026-10-10 16:00 UTC"
+  },
+  {
+    "category": "Sports",
+    "source": "Google News",
+    "title": "College Football Playoff to hand ESPN its asking price for 24-team playoff as exclusive window closes - CBS Sports",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzZ4TmVZMFZFNTN5UENJb3hMN1JIX2tuVVZEWThXTU1CZjJJaXJ4dFk1dXRKZjcxZ1Q1TjQyYTVFTVB4QllpRmdkY0dLT04xQWxESUc0bzR2dzYzbzhjSDI0MnNmd1JUUTNuYmJuckFCblY1U3V0OXJ0a1lGbjFrUGI3cTVKXzNhMEgxbmZlMnBTaW55WWVCTHcxaGViV2xX?oc=5",
+    "published": "2026-10-10 15:33 UTC"
   },
   {
     "category": "Technology",
@@ -126,32 +161,11 @@
     "published": "2026-10-10 15:23 UTC"
   },
   {
-    "category": "India",
-    "source": "Google News",
-    "title": "India’s Political Crisis Deepens as Modi Faces Public Anger - Frontline Magazine",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVhRbU9DbWlSN3lkZHlWZTZvRUQwXzYwcThGMkhuVjl3QThsNll1STlKYUNfVy1DMVY0VVlVSS1JUFI0LThnS0c3RlNQTUNZSGxuTHFtNXdaOFd5T0FhQUlTaXhsdDcwOVBROWtSX2daMUgwYUxMSDhtYk1nVHZ5WGxFa2M1ZXhYX1Vzcm53ek5tVWd4blpqY2V0Z3VzSXNMSkQw0gGqAUFVX3lxTFB6YmF4bEJRRll0cXlSSGFtQkpqdklrMGZHQ3MyaHlvUHRYd1ZKb1B0X1dIWHRjUUptRzU4aEVObG9KOE9JUndBWWJRaTE3dXJnQkNMTnUzVTAxLXBKRm9XWjRLQ1VvY3g0S04xRzNTUlhOTkxPSVZ0RG50ejFuYjhuLUgxMEdUSkVMYVlGWG1SS1MyajZkeUMtZGN5S2dqVjNjVlVHMkUxd3ZB?oc=5",
-    "published": "2026-10-10 15:14 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Cardinals are reportedly finalizing deal to trade Marvin Harrison Jr. - Arizona Sports",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONEFlNTlfdFRpRl9BaW05bUlheFplTlp0Z0QtU1FLbHZ1bXhJS0oyZjh5dEJmaThqMVVnZnFjNmJHaHZtMnplMnB0cW53dk9ETzVHOTdTRHhFY3AzT3RzdTFKTHoyWmdOLWlXS3JyMTBtY2pxNDAzM202MzFFQnV0dTBCcEFvLTFidDhjeVJEZmQwNUVOOU1SVXBIRFFwbmxpby1OM09GV2t6QU9ZVkRaSkdxazIxZmc?oc=5",
-    "published": "2026-10-10 15:13 UTC"
-  },
-  {
     "category": "World",
     "source": "BBC",
     "title": "Woman injures three people in third Poland school knife attack in a week",
     "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
     "published": "2026-10-10 14:58 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Programming updates: ESPN college sports & weather impacts - ESPN Press Room",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjVDMHFFU0FzYzZSSnNUUlg1Y0VIRERja2RrNndJN1c3NEEzZVNlYzBIN2g3ZDhNS2trNkNCMnYtUTZtZVBySXl2Yjh4cTZYX0Y4LXQxZ2hsUGJWVDFONnBXNWo1eFgtUC1FdWVwNkNHTHhsdHRpOTNBSFIyTk1YSVJmZGI5cTE2dDE4UlBtZTBWTElsLXJ0ajBYNFU?oc=5",
-    "published": "2026-10-10 14:37 UTC"
   },
   {
     "category": "India",
@@ -168,6 +182,13 @@
     "published": "2026-10-10 13:49 UTC"
   },
   {
+    "category": "Sports",
+    "source": "Google News",
+    "title": "Khalil Mack could return to the Bears - NBC Sports",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObkVXWG84OEdOeDFnczROWjR3eVhTRnlILVNRa2FfSkNldm9rRG5zMDFtSTBZVjB0bmN6WmU4SXBxTDB1TEZGMWJOR0J3aWdWd3c1YzlUYl9RVmRjX1FkSk9wNkc2UU9DX1QtQTZjemJFYlVaOE41QXplMHlsek8tMzcyRlU0Q1JTOVZLLU9nWkFPZjNpVDc2WTNaRmpBZll4?oc=5",
+    "published": "2026-10-10 13:47 UTC"
+  },
+  {
     "category": "Gaming",
     "source": "Google News",
     "title": "We tested gaming performance in 17-year-old Windows 7 against Windows 11 on a modern gaming PC — older operating system delivers advantages in some scenarios - Tom's Hardware",
@@ -175,11 +196,11 @@
     "published": "2026-10-10 13:40 UTC"
   },
   {
-    "category": "World",
-    "source": "BBC",
-    "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-    "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-10 12:29 UTC"
+    "category": "India",
+    "source": "Google News",
+    "title": "India and West Indies head to Indore for potential run-fest with series level - Cricinfo",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQUNxa2M4TFpXemduc1I3NDVZWnNFYUEzQjlRUDJzaFpZdUZ0R0o2bHNDWnRuTkg5RFhIMFhlSUdvWm9YbkEzb3VzQjNSNENTTlpSZ3BaT093aFRXUnNuQ2p1UlZqN3N0SGdWekh5TTBhYVhQZ2o0TC1aWG8zbmJIczJzdHdKd2NBT1VCM2xvRjZmdHAzb25nNG5QSmVIcVpmY2ZiQ0RDSUx1SGlKbFdPa0J4WjFVeFkwRmpmVg?oc=5",
+    "published": "2026-10-10 13:08 UTC"
   },
   {
     "category": "India",
@@ -191,9 +212,16 @@
   {
     "category": "World",
     "source": "BBC",
-    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-    "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-10 10:06 UTC"
+    "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+    "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-10 12:28 UTC"
+  },
+  {
+    "category": "Technology",
+    "source": "Google News",
+    "title": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTXlFcXRPbktDQ1hqekFyaTlVRFhYdmk4RV9IUE8zMzZYOU42RkQ4MEprQVlzNm5CZ1ZjRTEycVV4RTB5REhKcDdZVVBMdWVGcXlWcDNSRUdJM3hONWY5SHdIeTg4Z0N6d0lDcklMNXktRzE3ZE1CQ1FLRHF2bHdaZG5nOXkwakotbng0SXFzN2JZY1ZHcWp0dnNvVEs?oc=5",
+    "published": "2026-10-10 10:09 UTC"
   },
   {
     "category": "Technology",
@@ -219,9 +247,9 @@
   {
     "category": "India",
     "source": "Google News",
-    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay - TechCrunch",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTJHbnRLM05qWjZUNkpKSVJudERCeXJQUjJ6N25kU0d1dmtockxpeVpQTENxUU5sWmFrV1R2RDEtOEdXdGlUQVhPZ011QTVDeDVJa1F3UGlmekV1UE1xU0pLRFNUZjdxNHFUWXpZNWhwT0J5VVYxQmRzRnI5TVBPbm55UlVwVjk3NldqTVNyMmFCYjQzVUdtbUJFeTNMaVF0RW80YVJvNEhEZw?oc=5",
-    "published": "2026-10-10 03:10 UTC"
+    "title": "Will O'Rourke to miss India series to rehabilitate from hamstring, calf injuries - Cricinfo",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQVA4c2FWQ2Iyc3dXblFnSmtYX1lSVUUyOUN6YUdXM2N3dkx4SDBZMThHbnBybF9laTFJV2RzWVk2MnZ2a0FVLW55TmdZUkVldGxybzZHOVRxdlFUaXctVmEyMWl6dVhFVUM1bDNtajJJS2JjWGx5UHBKMnhBbEttNTZHdDYydWFwRzE1bWpSb3VrOEozSVdqWi01SjE1anRvR0lPMDZHVzRUcmZqZ3o4eTVxOHlIY2szMHEwakNkOVAzTk1YanF3WkxzbVRuWEVFMnfSAeMBQVVfeXFMTXcxNFFZRmkyeFhOdVdKS0FWbzNvRUwxSUpHVGRnV3JmcWhFN3pZTWFORUdYY1RacFdBbU9RS25uR19PcHNBbUZ6N1pkbWpNRDRSc1E3OGV6X015d2hZM2xyWG52X25xR3ZISFZneHNkMjF0NGtocXpkLWQ4eVIxSkpuS3JpVGV3RVJPNWJzNThDUGFtVVJNR0stdkVWRk54Tjk3NzcwdXFmQXdvN2hGVzljcEhiNGJ4MDdFeHBEVTdodkotdS1CNExUTC1WR0VpNHI5SUlJMVgybGtvNGo1cnJNRTg?oc=5",
+    "published": "2026-10-10 03:08 UTC"
   },
   {
     "category": "Gaming",
@@ -231,9 +259,16 @@
     "published": "2026-10-10 02:00 UTC"
   },
   {
+    "category": "Technology",
+    "source": "Google News",
+    "title": "Gilgo Beach case: Suffolk DA urges advanced DNA technology - ABC7 New York",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmhWbzV0YTNyY0V1UmlaZ1V1eEdUV3hVMGlEa0pDOUxYXzVSbHByRzB5R21hRzh1M2l0T1FDWTNhdDhpTG1tZjVYTzNHaEJ1azhTc2pvemNJUXNtcWdKdlh2dVozY1VuN2xiN0RoNzQ4OC10cXdDSTdBSlZ2NXozVVA1Yk9YbkJzT3NHVnItdFFBQTYzYjVpanExb3VLVkHSAaQBQVVfeXFMT3Q5R1VIQThiNU1hRExnRHBveTk4dWQ4eWJOMklCLVkwQTlkYjVSa2ZFcVFFb2x2U240MnA2bUl1UUhOblBHSzcwYlJabEVQRTF2TXhBX25ZWDg1a0NQY1NCOW1fbzdCQTMyOGdmdU9MSHZBbXRCS1RKbkdGVnUxTDFXMm8tVmtPSVRWS3NLWFpidUFsNnpIbWZqVURxVU9DcW1DZnc?oc=5",
+    "published": "2026-10-09 21:39 UTC"
+  },
+  {
     "category": "Gaming",
     "source": "Google News",
-    "title": "RTX Spark Gaming Performance vs RTX 5090: 100 FPS Claim [2026] - https://tech-insider.org/",
+    "title": "RTX Spark Claims 100 FPS at 1440p, Lags RTX 5090 [2026] - https://tech-insider.org/",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zbWdRWVZOVXBJSDVsWmZ1NC0zZDQ5QXE4ZWhzdi1veTRHclJiQ0NablU4aHZwN2lNU05Ldm83Sy1EM2IzbEpnUW5VVE1adGlJTmNGeUhlUUw0MTdGMUVKTEJxLVFybzFVdWlTdUl4ZHBIRkNFaTF4T1RWVQ?oc=5",
     "published": "2026-10-09 20:56 UTC"
   },
@@ -245,25 +280,11 @@
     "published": "2026-10-09 19:49 UTC"
   },
   {
-    "category": "Gaming",
+    "category": "India",
     "source": "Google News",
-    "title": "AOC Intros U27G4Z Dual-Mode 4K Fast IPS 240/480 Hz Gaming Monitor - TechPowerUp",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0s5ZGxCMGNrQzVmbkpPZF94a0gtT0ZvS2tobVBLTXlTbE9uZGpuQmNpLXNnc3EzRmdaX3V6dnp6aUZWYm50MHVrcEM2UjkwbkdoNHFwUVVibkhxTmExODZ4a0xtdUJoQURvZ1ZGR0FSV3pEdU4tNmFQVlQwN1lxZWxGRmNyblJtNHF1UTJ3TDFLcUpRMi1pWkpaOFBXdjF1U3fSAacBQVVfeXFMT3dSSGRqLWxYSGwtcExlVWV5bElwdDV5by1DajczNTNha1EzdnNRTkZyYUx1QUNpSG9vNmxLdHdHQWhKR2F3d3RNV1RtclVtd2NVUWtPaUh4enJpVVRacXVHd2tNUGg1T2R6QnJTMUdoN0RKOFRNVTROYmpZRjFsa0gxSE56bWlJMlVRX3YxU2Y1X21oTXVTcFNZY1NKVncxSGZWREwzZDA?oc=5",
-    "published": "2026-10-09 17:48 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Brian Schottenheimer considers staff changes after Cowboys' loss, Jerry Jones responds to embarrassing loss - CBS Sports",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUZfdll3NVRxak9SX0xwUGdXSGYwM2xDWEQybk9naFJkSnNnSkxrUEkwX3ZuSjVaZ2YyVjdpTlNpS08zbVJkYjRuQmkzVlFWY1ZocVFQMkpocmpwbTBMcFNGaVBVVE5TaHZ0VzZzcHo3S3M1NzdGZ3NKQWlIejZBV1pDdXBuM2FNNkFsWFVyclV3aDBiZGwwNkszV1JDQjgxZEE?oc=5",
-    "published": "2026-10-09 13:34 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "This RTX 5070 gaming laptop is still the absolute best $1,299 you can spend — RTX 5060 and 5050 models also see up to $450 off - Tom's Hardware",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUHFIY0JxNnJSVWVsdDZFZS1DdWhJOEtXWS14WVhNRC1nb3VaejhqVTF3ZmNJVlVtRWxZTlZNQ3NoOVYyZDVWenkwZWo2c1FmTHFUTGxwUDBkY1p1Tkh0ZFFRSVRaVkx4Yy1TNGpiMUNjYm91M3RmNlMtcWF4aW1DbUFuQVVtdXpGUWZIZ1AyWmdrN2p0TmN4NGJTQTZTcmp5NWVVeVV5dUZiZXFyMmJlaHVtSEFlUVQxX1VSSXV5OUpESnJNNU1yQmNQR1RmY0FjUkpTNjRqVDlicmtmdlhBWExBRkpuaHRHRWR5blhkMlNBd2VXR0FjLUJQYVN1RmFxRExZLVRrOGVTaGkw?oc=5",
-    "published": "2026-10-09 13:07 UTC"
+    "title": "India vs West Indies 2026 - 2nd T20I - BCCI",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03Tms2Nk16U0ZIUi1zLVdTZkRBRnowSmttTU9OZWVMWmhnTWlZNHI1UV9FdGw1TlRHX2VaN1pHOFBwcnpieVQyTkI5enNPcHBNZ2I3QU8waUl1TENQTWdLQUVUNHhPOG9iX3FuWGNn?oc=5",
+    "published": "2026-10-09 15:38 UTC"
   },
   {
     "category": "Gaming",
@@ -271,20 +292,6 @@
     "title": "The humble Playdate has become one of gaming’s best deals - The Verge",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mMVVzbFBBZ0NzX25tRG81LWJUbk9hc2ZvWDJMRFJYajVGSVF5aXpzVkxPT3R6MEpsTmNUX2RxSUhqWnZhemxQamZyZU5MRWtJYUlQMHFyNU9raGR4bmVsWVl1UWpDcmVLcGs0SGNLVUUzZw?oc=5",
     "published": "2026-10-09 13:00 UTC"
-  },
-  {
-    "category": "India",
-    "source": "Google News",
-    "title": "India rejects monopoly claim after Musk accuses Ambani of blocking Starlink launch - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEVyMm5IWVd1MWpWcERlbWVSUDQzTGNobTJfQkU2N3Z5MGZBTG1YMFVEcG1tbmowVXU0MFI2VHR5blJ5ZGFlMUFZY0ZNTzJ4bnRDTUZJQ1FGaXhiZk1YdjdyQml3M0U5SldubWpqNkJBRFNqUTBRZU5aRXBnUjJZRWFGZGVGTXBvMlVXYjBUSXdmTUpWZVNWMFMzdTlkQkFkRThpVUxJZG1oS2NRdW9yeXVSakRxWC1MS21LM21LdjJBeHVCXzF5Ynp5VW9QTFhWQkVjaw?oc=5",
-    "published": "2026-10-09 12:31 UTC"
-  },
-  {
-    "category": "Technology",
-    "source": "Google News",
-    "title": "15 Old Photos Where Technology Isn’t Used How You Might Think - Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU0tVZVNWX0hPbVIwS2YzZVNVTVNRZmdoaVBQMUJUSnpraHB4eFIyTndfSHoybkg0SER3bmxYRzFYWHhFTmpyQzRsZXpsVE4zOWMySk55eDNRN2V0U1ZrZ2hLcnFUdG1vWmdDU0c0Z1IwSnRfLXJPdmlIYXp5UzN4U2J4c3RRWUJmX3BqRVVMZw?oc=5",
-    "published": "2026-10-09 12:00 UTC"
   },
   {
     "category": "Technology",
@@ -305,14 +312,7 @@
     "source": "Google News",
     "title": "Modi wants India to power the AI age. Residents are pushing back - Reuters",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM3hfVEZGdld3RW9ZMFEwQXBIVzhLRndhajVkYm1xZXFnbGhaZ0VjQ1VfaGNwWWl2MThudzZPY2Nzem5QZWNvVG03U09wQ2tIdldKcThKN3pRenViMVVjUno4ZFAyVmZNaldNQ0d2QjQ3RmxYa2xZcUMwNkFVcjV4NmxKOTE1Rkw1QzNWRmV6Y2JZb0NsZUtDX2h6V3NVWkpHemtFck16bw?oc=5",
-    "published": "2026-10-09 06:36 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "Microsoft Promises Day-One Gaming on RTX Spark, but Call of Duty Has to Wait - TechPowerUp",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ3FjUHV3MUFOVnhiSWJSZGk2MDhpa3BkWks4WDRwUFFVby03dHZ3eEQtZi1CYW8wUmlmX1hsUEhfa01iYkhyQXZGRGpuaWV0VWN3eFZfLTZlakV4MzJTNWo4MWhSM3JKRDNtbmxucUNNQkx6akZDQU5WOHNrUEpyRHZCMzZiS3Y0U0JvYXpGVjZhZFN4S3h2SjNIWXQyUkVaVWRFMG93bUR2VFN2bmc00gG0AUFVX3lxTE9sT2szbzR6YVVGc1p5Q0NqcDY1UFRWeGIzemR1b2FHSUhmTTNmVG5BZkRIaWNJRTZZS09CN0dHZEhBZ1QwcUlpOFNoTFh5Sjd2cWhxZFNTbFJ6YWFDLWY4dEJMdWRqWlV0Um0wdnVKTWFjc0hJcDhXNjlPUG4yQ3ZUYWNQa0xRb29xNXdURndidlNaeWIyUUpQLU51TXhmTEMyN3VGcW52NVlvcUZXbUV6NDduNw?oc=5",
-    "published": "2026-10-08 20:11 UTC"
+    "published": "2026-10-09 02:05 UTC"
   },
   {
     "category": "Technology",
@@ -320,13 +320,6 @@
     "title": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWRCMnJEN0hfdXA5aS1lVVdWQXB5cE41QThjWURQb19XUGlCUFpUQTNCNWNRWDVrS1N6WWRrdl96QW9OQ2pYSnpkSzlHTjNGZ3VWcm1aYVpZc2M0TlJjQUE0WXB1S1J0NHk2T25yNWQ3d3hXdVY1VlZkclhzdncySFlvdGFiOWJTTjRqVk93NWNQQnJlYjcxQWxjS19zcFlhOHItVVp3aF85a1Z3RnZ3TnN6aWxWcGtDZGJV?oc=5",
     "published": "2026-10-08 12:46 UTC"
-  },
-  {
-    "category": "India",
-    "source": "Google News",
-    "title": "Indian manufacturing’s moment may finally have arrived - The Economist",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmYxeTdhMFZPRGh5Y2tUT0g1VjdMX3QxQzdjbEtNSTZvVzdTUW5pWEwzZzFRakJzMjEtSlBEZ3ZRVDBQbUViNk9nYkcxVGpFS3pjakxtNHZadUtpaTJKWTE0VDdhVXR6LXBPQXZiaEdBUHdsZVNhel9Uck1qV2VHeDF2SEo2WTlFa2dDbndRMXRlSnNRRzcxeEVWbGY4d1c3?oc=5",
-    "published": "2026-10-08 11:25 UTC"
   },
   {
     "category": "Sports",
@@ -343,10 +336,17 @@
     "published": "2026-10-07 20:55 UTC"
   },
   {
-    "category": "Technology",
+    "category": "Gaming",
     "source": "Google News",
     "title": "Introducing Playground: Create and play custom games - blog.google",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3EtVDA1V3h6c1dxNS1yc3J0OWlnaDJBdFZER3FkOXpJam1rVUJsRzRQTEdDRG5TWjlraHBhVGEyYUlMUFM1MGp6QkFhTjVjQjl0aE5qbDVsODFiMHl5RWV5U1B6ZmQ4R05WUnVpTGJNRWNzSEF2bTl5QnE1U0F5U0dOMlphOUVMOVA3U2YyckNnb1AtSFhJ?oc=5",
     "published": "2026-10-07 12:17 UTC"
+  },
+  {
+    "category": "Gaming",
+    "source": "Google News",
+    "title": "The rise of Deckbuilders and the fall of Digital Card Games. - Alienware Arena",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZy13ckdfYmNDbl9MMkVjRXJic3NTYTB2alRYVUlueGhsOXdSdTRBME80amhsVHFTWXlYQjFCQkxoWW81dXRYa3FnNm4xQ1BRYXhWSXgtVDY2ckNHeEdnczBBN2Z1MVROTW5SdTNYaURiRkhscjlLQ3FPa3lxRnlkX1pwQnI2dnE4a0ZTUjhST1BVT1FId0lUM1FsLXNkd0ZaWUlzcHBRZmhnUDVjWmJTQWh0S3lUXzIzeHNjNDRuXzlmNVBHVklJ?oc=5",
+    "published": "2026-07-30 07:00 UTC"
   }
 ]
