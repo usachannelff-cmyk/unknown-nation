@@ -1,10 +1,73 @@
 [
   {
-    "category": "Gaming",
+    "category": "Technology",
     "source": "Google News",
-    "title": "Report: Epic Games goes all-in on AI for Disney collaboration - Ars Technica",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3ZDOS1wQVVMV1hiTHBLM0hqc0p0QzdGRmpESUZxRFpnakNqOWVwTlJGbnRJc2F0WnZoMFl6WXN0eG1feUJSUGQ4VUdPYXJRU3JzMmZ1ZWdnSWdhOXN0Q2l3ZEd4NWhBdDFJc3Fsd0h4NEVpdmVvTHVOUGh0NDdGMjM5bF9NcUdCdEJOY0EwNjBUeWhRZkx5bGVUdVhpQzVEUnc?oc=5",
-    "published": "2026-10-12 20:59 UTC"
+    "title": "When It Comes to Technology, Catholic Schools Can Lead by Example - Public Discourse",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hWkJYVGpMZk9mOXhPTDRXckYzZ3F1d1AwYjl6SGVPYVZYMFRaekxON0VIdy1RSjhpTFJZTmhpNEhGNTlzb0p2MnhoOWxTUzhiM3FjVlRGcGx2R05EaS0w?oc=5",
+    "published": "2026-10-13 00:00 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "Breaking Bad actor RJ Mitte dies aged 34",
+    "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-12 23:39 UTC"
+  },
+  {
+    "category": "Sports",
+    "source": "Google News",
+    "title": "Raiders Sign Ex-Browns Speedy Wide Receiver Before Bills Game - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXdIUjROdVlnZkdCTHVoejlKZ29pMlJpYjZGNll1VzM4Q0ZXMG1qNXhlQmZ0a0xGWnNUTjE1eWVlQWlkMXA3QUpvREFlNDZjQ3pzTTh3dEo0NHlqbXg4YmpoaV9MTTg1aU5faE5pb1hFZ2ZlTlZST1VLTXE0OE5ycTlyVlU?oc=5",
+    "published": "2026-10-12 23:36 UTC"
+  },
+  {
+    "category": "Sports",
+    "source": "Google News",
+    "title": "Packers HC Addresses Micah Parsons Injury Concerns - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWxGWDFsZkYzWDEwMGlhdmE1UnVHeXIyVXVkelVqYUFQUU1VQ2dVTlhUaTB2a284bGlFZnVfYnRFLVJlWmF5RmZ3NjR6Y19JMlkyN1N4VlpIdHd2Zk1fdzdaeG9vQXhIekMyUUszODVyeWRFcHNUel9GY3kzblMtZzI1b2NjVU1MWVFN?oc=5",
+    "published": "2026-10-12 23:26 UTC"
+  },
+  {
+    "category": "Sports",
+    "source": "Google News",
+    "title": "Giants to sign DL Dawuane Smoot to practice squad - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOFA0R3Rjd0tGSzBPZS01dHpITExNX3VVaDJlWGRYZHhBNEhGQ1l3T3FxOEhEWXh4VzFsVGtEUzdCV3dFVFpqUVQ2ZDRMU0htcnhDTmRvdFJtMHlVaXptTTlTbFBOWFdqNFVzNC15emV2Y3ZOeUM2MVFLczJ2bjVleUxENA?oc=5",
+    "published": "2026-10-12 23:21 UTC"
+  },
+  {
+    "category": "India",
+    "source": "Google News",
+    "title": "Jantar Mantar out as protest hub; 3 new venues named - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWk2SDEzeUdWLUFKbWZCeFpYb1NJU3paaUh2cDB0Z0pmcnF1SnRPQnlzN0pFbkJVUEk5QVV2V3paQ0drdnFPSHhjcERjSU9PT0dvTlF2a0I1M2FMWnp1WUhnZ0p5ZExtOTZ2dGdXY0lmRHNzc1h0WUxWcE9mWXptTldCQ0I2Y2xNYXRFRkgyMUNySUpnTVBFT2Q5OEhORVlRNHRib2xVZEpsajZVTDVUZW5zcXdlMVRxZV840gHAAUFVX3lxTE5wWVZxbExNRVI0OUxDMWNuMnliNHBaLUdYRUJTaXRhRXMzendHMjd3NzRjOEVvZzI2M09YYV9jWG42TGs3STRzNXZ6cm5oaUNsb1k1ZmhaZm5WYUE0UmE2T3RmZ3EyZkx0RWp0eW4wOXN0QVdMU2JTZWV0eDFMZmgyZHhQMU8tZUFBeExOUm5PWDVlVDhySDBKZHh5WEdCYXZfeUNJRXJGYVFBUFV1MFU5N19HRmREV0Q2V1BhRDJacQ?oc=5",
+    "published": "2026-10-12 23:11 UTC"
+  },
+  {
+    "category": "India",
+    "source": "Google News",
+    "title": "Tata boardroom feud is testing a trusted business empire - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lTmFjVWhvOVYwZ3pJdFF1LS10aGxlNmtEZENNOXZlSl9SMENBa1l0bGlaWVM2UU8wYnd0QW81NnRXNzdSd0huRFYtVURyWU9XRWtLYnE2bUFMSjA?oc=5",
+    "published": "2026-10-12 23:10 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "Immigration agents search congresswoman Ilhan Omar's home",
+    "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-12 22:05 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-12 21:20 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "Qantas flight grounded after bedbug outbreak",
+    "link": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-12 21:01 UTC"
   },
   {
     "category": "World",
@@ -14,39 +77,11 @@
     "published": "2026-10-12 20:54 UTC"
   },
   {
-    "category": "India",
-    "source": "Google News",
-    "title": "India's central bank tightens rules on rupee non-deliverable contracts, widens 20% cash reserve requirement - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMGtYWFZTdjFPOGR5X0l6eHNhamxqQWpUUGRVamVLZDE0bk5wQlVCczVyRkI4MDhyalZVSUlaZ3B4RWpVbVdFTGFIdU01UUhoSDd4cXp5SkhzUDRqTjBYTVNMdDJlZ1BaMm1qOEpqc3JfWTVwTmhPZUhDN05TY3VWdXotbmtQZFFYVXJCQmtTYVhpbDFrTGFwRlVyMnAwaUJ3TzRtRzJlREhSSjdrZTg4a05FYlU3WkN5VnRtVzl6dDE3UQ?oc=5",
-    "published": "2026-10-12 20:53 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Cowboys’ 2026 NFL Draft Class Earns A- After Week 5 - Yahoo Sports",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM2tWQUFCdzNZNWthN1BFekg5TjVXUk5DTURXTjczY2VRSy10OWdKVlRaMk1idW9aR2wtcXFTR2FncEVmekhJcjNMU3BUVE5JYjJJLXVKMl9vRHpXNE1yMW1EdGlYWGlDaHNUbU1GMl9xYm9ObzlIX0RDaGIwbWhWSmNUMA?oc=5",
-    "published": "2026-10-12 20:33 UTC"
-  },
-  {
-    "category": "Technology",
-    "source": "Google News",
-    "title": "Memory chip stocks slide as China’s CXMT advances chip technology - Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZUJuT0syWDItMGNZbEhKcGpuazEtRGVESlJmYmt3aG1od3JISlEtcEZHMzFpNjRlZmZ3M1oyUkI2SEdFWFlLU0NQZU8zdlFfaW9Oc3FHeHpaR3M?oc=5",
-    "published": "2026-10-12 20:33 UTC"
-  },
-  {
     "category": "Gaming",
     "source": "Google News",
     "title": "After a 10-year redemption arc, No Man’s Sky is coming to the iPhone and iPad - Ars Technica",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0N5XzFob1EtYVNVXzdKWVhyTUo4UXRwRG1qNGp1RWJuSUdmN21NSlVEZ05sZ0JSbzFScnMyeUhLX3EwYi1fLU5PTXNEOGx1M3BlZ1N0dmRLbkIwTkE1c2VHbENkTTRaZUdyUzRFSXRaRVJrR0twNEItWnhoVjBFMlFqTVRSclA4d01hc2dDYW0yUXRpT0dTUTNBQWtscGxfQ0IyckxibFE2QUNlVDZBdUc0bUh2QQ?oc=5",
     "published": "2026-10-12 20:26 UTC"
-  },
-  {
-    "category": "Technology",
-    "source": "Google News",
-    "title": "Lakeland police expand drone technology, add AI tools in nearly $22M deal - WFLA",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTkQzMTM4V2hsLWQ5Z2FGc3NBMndVT1NsMUhHMDZJQ3dQeU1PWWxKM2d6Yk9uaXEzMTVYZ29HMGpVeGo1Z0ZMd205dnI0ZUgtakJIU0M5Q1Vxakl5eTFBVXFkMlgybGluNUhSajUxRTI1VzVYeGFITGI3SXF6YXVQZ3J0OFU2b1NEMExURUsxVHJxRUYzeW4xWDIxLTZEdUx5SnBvM2t1NnBESmFZN0dv0gG0AUFVX3lxTE5GeEExazVwS245VlBveXViQklFcUFhWWpNaThYaVdwMnBDaXRJckVWeS1ETXpyY3NEd21zZEM4SjliMVVKdzJCMjUxcjBSdkNzQXRDUS1PS0lWVEhZWXJUY25ycHF4MjhfUTdxOWRIaFVoUkE4MUlmRVNmSl9idFZKYUVyZkNRSmQxcW5jRUo1SFdCR0JvSkFNQnd0ZS12OVdQTXVTVVhna2JxWEoyTnpfdl94aA?oc=5",
-    "published": "2026-10-12 20:19 UTC"
   },
   {
     "category": "World",
@@ -56,25 +91,18 @@
     "published": "2026-10-12 20:17 UTC"
   },
   {
-    "category": "India",
+    "category": "Gaming",
     "source": "Google News",
-    "title": "European car companies will prefer to make in India: Piyush Goyal - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVWs4SGlhcWZIcnVYMjFQcWo2Y0dtbDZDeHFET3N1ZmdlZ2lQb0lIU3hnSmVWTVFiR3hFRFRPWk92RTh6M19QZDVXOEZUVlpETnR4RGtDMlpzck1XRnJkcXZCSXFxLXRnTmtxOTJ4SlpTZzFYbmY2OGozbmRGSEhMWmRBVFk5aDJiRzlVMjQydFZMdk42b01kNXhxOUNIa0Q1WUNPbWRqbXFERFdZdXFoelpxRE8xR25KM24yQ3Z3aHNWOWdYQW1RTkRhRllZVWY1RTNPcHA5SEs5aWVtQk5xNDBNMXLSAeoBQVVfeXFMTnU1VS1IQ0JvdFZZTjBST1BJeFF1RG5uZ1B2TUdocXpuUUh1Z0dXc25XUnNlMDI2SmFXQ3dHUjg1U3JtVjhIZnYzYjRMM3pGcEY2WWJ2TDRqVHdQd3VQLXAzR05mOWljVFlqQmhmX1FQcG92UThJWjRpRTczMHZyQWw5VndmakZpaXpIQ2h4RUIzRUNORGxZTWVxQ2sxS0ZZTTRVY2VxRjZmbE90d2VlZGtZc0JKUjllQXVOUWxTVk9STU5ZbmxzUnhjUHZhcmhKQUpDc0Fvd3dVUWEyWEUtdjJUMFJXSVNXOUxn?oc=5",
-    "published": "2026-10-12 20:16 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "UCLA QB Nico Iamaleava reportedly sidelined 'indefinitely,' could miss 'remainder of season' - Yahoo Sports",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMFJiRUNoZFNrYkJIWEpGa1kyRjVhU0xfN2hyblVTR0VuaU5KVmJ5RHVwNmFSRG5LYjZzNEMzTEEtbzRZMmVDc1FkSTZPWnhDSVQ2OVlUYVhiNWlhdE5TdFBxeTVlVS1fNmhBSzhQVmp6QU9pbm44am80WmNSSW5BRnFkcU11djlFQ3lCclZIVGNFZDNyRHNxeHJJM2FoWlN0WlVPbU5vVWVGTXZYcGdhZVBiU0F6YjBnUzZuOWdrajBlNFB1czRjWm52dm03dTZmY192Y1ZkOUpVX1hZam5WSl9IdFhwMWRDRGdudVVwSHVtdmNNYlBJMXhR?oc=5",
-    "published": "2026-10-12 20:09 UTC"
+    "title": "PS5 Jailbreak App \"Overdrive\" Allegedly Offers Free Games and DLC - TechPowerUp",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQlJVUEx1VWRWMHhEXzdZQ1RZRmtURDJ3M1FnSGd6WVhhRjBZWWxqc3Z0YnQtcnpleE5LWERqWmhOS0ItUXJOS3JXSHgyRGZIZHc0bi1hc0libXl6dzNaQTdoUTNaU0lvZm1JVEg3ZUZqTW9fX1Z1VU5ERkJKLTh2ZUd4aVlyRWJDTndieUprREo3LU1IUTZhZ2U2bTdnR1HSAaQBQVVfeXFMUE9kSlE3X2xwZEI5eTJKZjE5Q2xWdkNmTXhBNDNyLUhXT1FpaGk4MWdCUzh4RVowYTJkMmhUYjhlTVAtSjhSVGp1UzlIbW9kbWJMbWJMREFreEE0VERrdTJXalFmQVlkNEx1UEx4TU10bzU4cDNZU1dGUm96MDA1ZFRUbmV4WldDN2Fja1dfTDV1UV9LQ3FkTGI2VjA0cVQ4SEs2YUU?oc=5",
+    "published": "2026-10-12 20:00 UTC"
   },
   {
     "category": "Gaming",
     "source": "Google News",
-    "title": "Epic Games delays Disney game and tells developers to go \"AI first\" - GamesIndustry.biz",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3hKQUNuYUl4ZVNvNUZETkY5NVZCaGU1Z29mZXlMVlZxaUJKcVRaNGw5bkFXMjN0VGUtTTFVeV9NZ0hYMENMZDI2emF4WXh2b0VRYlJrcjNvRzlDeGxEVXU3RGJNODN0UDFocnNhRFNVWDI2NDBIWUgxTV9mSlNhQ0FfTnRoZGE2X0tBcmJ0YW1XWjlWZVMyZ3Q4WQ?oc=5",
-    "published": "2026-10-12 19:54 UTC"
+    "title": "Asha Sharma warns Xbox “can’t lose sight” of creating enduring new IP — even as cuts reshape the studio - Windows Central",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamdqRDRuX3RYOWNHU3l0WHB6OWU4NHJDaVVBS2RoZVdLdFNLdmJSa3ZrUmlhSlg2WkNJVldHa1duWXpRMGNlS2laRnhCTllEZU5hZU5GeFZTbWdyRWlJWFotV3VRbmN0dkMweTVING9MSVRFYVg3c2I5bmRyeG9iMzBERFQtd2FOYmxUOHJGdnJlOVZCSldsRVpfbU5zeFNHNEoyVHludmpxNVhKNmh3ZGwydU93ZlZMVXJiSngxRlU2akVrWkxoRC1nVUFTWUozOUxV?oc=5",
+    "published": "2026-10-12 19:16 UTC"
   },
   {
     "category": "World",
@@ -84,6 +112,13 @@
     "published": "2026-10-12 18:31 UTC"
   },
   {
+    "category": "Technology",
+    "source": "Google News",
+    "title": "Update: US Equity Indexes Mixed as Technology Weighs, Crude Oil Jumps Amid Strikes on Ukraine's Energy Assets - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYzNac3F1Z25NME91dlFielZXVzFfSTItRHZYeVlLUElSZXh3UmpULXdpdVp4akNEdUZIeEt4MmZid0NRY2FtZU1oekNMMmFWWDg2N3VUM19BTFZxVmxRUkdENWh2WEp1dnJfZ1lRdmdBcEJBdUhEYUREbmVFclJ3SmdwUVJzRDdrNHpsWE9iQ0RQN1EyQmhPemVsd2JzeEdM?oc=5",
+    "published": "2026-10-12 18:26 UTC"
+  },
+  {
     "category": "Gaming",
     "source": "Google News",
     "title": "Epic Games Delays Disney Project, Asks Developers to Use More AI - Bloomberg.com",
@@ -91,11 +126,18 @@
     "published": "2026-10-12 18:24 UTC"
   },
   {
-    "category": "Sports",
+    "category": "Technology",
     "source": "Google News",
-    "title": "Rhule rundown: Recapping Indiana, previewing Oregon - The Daily Nebraskan",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3JwU1RSamgzTjBULXVMN1RJTzJpQzNuX1Uyb2NRZFFPTzYySzJLRkJCVzgxaVE1QjVwNW84ZVlabVp2Ml9tUGZIQk9NVDhKZnE4SE9ROENEeThDZDdDVXY2NEJrSmQ5X19Dc0hUQnBFcnpXbm1vcE5yUDFZRm1wNzA3NzJwWWZqU1l2cjM2LVIwMHV5OURkN2tSZmMwZHRGc2luSldDTjVac1h1bExUMkRjZ2VqR3RIVmRXUGJobXFzZU5iTkpzLXoyWnYxWE5kSnYw?oc=5",
-    "published": "2026-10-12 18:17 UTC"
+    "title": "How Big Tech’s AI Race Fueled a Borrowing Boom - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlhQMDE4RlF5WHZNNHVFTDFoZkhfZnJxTHUwVXliSDg3cGFMVjZuNEtzNkdLeEVpX29Sa3NTcmd4WV9lWXZjanc5b0xXdGZNeHVRSmRCaGpOUV9uQTdKSHYteFFLZGt0MlFVTG12X1lOOFJsUmVLWHV4MWxHSzJwT3F6T0RZQXRGS0M2elJoQUVqLTdiRlJtREhjVjFBc1NMdURkZFJTVm4?oc=5",
+    "published": "2026-10-12 18:01 UTC"
+  },
+  {
+    "category": "Gaming",
+    "source": "Google News",
+    "title": "Lenovo RTX 5070 Ti gaming laptop with 275HX, 240Hz display, and 64GB DDR5 RAM is at its 30-day lowest price at Amazon - PC Guide",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTFJZVGx6czBLeloyRlZHbGNDckxUWlJBU29kenZyZXdCZ21aT2R4NkxOUGRqNkdfamxuYmEwU195YldabktpM05Gdl9sM0ZlVTZ2b0xoOTNlVDNFM0RzS0paSmZWZEVvSnF3R1FBTzV4Z2lfVXo2c0p0a2VUR3JaLVdiMktoaFA4Yk1MSk1JTGlocVlNd0NTZlJ5bko2TGFUVi1MSnU0ZmpGWXd5RzNUaVhnNVQtM0ZFNzhsUEpxUFJNcGhuemdfM1Y1WlJ5cnIyMEpZejg3MG5pMXktUFpr?oc=5",
+    "published": "2026-10-12 17:47 UTC"
   },
   {
     "category": "Technology",
@@ -114,30 +156,9 @@
   {
     "category": "Technology",
     "source": "Google News",
-    "title": "Is Universal Basic Income the Answer to A.I.-Fueled Job Losses? - The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX3l1SGRCY3FkaUNyS0dpWHNkTEQwaHpMQ0pNRTNNRDEzN1p6X1l1YmU0WTZVelV1Y01BdjJFRXdTeU1XVF9abFhDVGlyYS1xa1RjaFVWQ2VEaW9NV2dDRTVJb1Njbzl6T0JYUFd0bTcyMUlOOVhMZURicnAtWWpIS3ZqMEllRVo2ZDJxaG9DU3hRQQ?oc=5",
-    "published": "2026-10-12 17:40 UTC"
-  },
-  {
-    "category": "World",
-    "source": "BBC",
-    "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-    "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-12 17:32 UTC"
-  },
-  {
-    "category": "World",
-    "source": "BBC",
-    "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-12 17:09 UTC"
-  },
-  {
-    "category": "Technology",
-    "source": "Google News",
-    "title": "Meta Says New Muse Model Reaches AI Frontier After Aggressive Push - Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEE0WWhsM19sbHp4eXRuUHJNeURDWkpQS2tSdE9scThXNUVrWGN0R19KdHZLdXJnZjJQNFJXRnRsNXNWS1RmeGhlSlR6bVFER0JsWjRraFVIeXpZZkZIblc5TmVaeExWYjRqamRnUUl4enVHb0hnN3B5NUdaV1UwVmlmMVE4QlpYWmhQeWlzVUs5X0dTZkVtSHZDdXJZTHNaLWtFQ3luM0puZk91QlQyeWdPTVg0Zw?oc=5",
-    "published": "2026-10-12 16:56 UTC"
+    "title": "Meta Unveils New Series of Advanced A.I. Models - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3hUd1VrZ2o4V1lPMjZHeUd1RnRpMTRMZHQ3QUppcWtUdFo0TXYzM1FDUHZoZ0wtUWtwTUhFZFl3b19xT1IwMEpTcWUxcEY4NEliN2ZWRWM5ckJlYkVIZnM3bzg5TUN3dFZyTHNydWNKZ05aTHVqOGRNdXhOUW5jNXl0bEd2QQ?oc=5",
+    "published": "2026-10-12 17:00 UTC"
   },
   {
     "category": "World",
@@ -147,18 +168,18 @@
     "published": "2026-10-12 16:46 UTC"
   },
   {
-    "category": "Gaming",
+    "category": "Sports",
     "source": "Google News",
-    "title": "5 PS2 Video Games That Are Worth A Fortune Today - SVG",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1UXM4ZDRpNGdOX1QycmFTXy1leE82RU4zeHQwaUQzZzNMdkJVQ2ZOdVVRWUpyTi1xYi15WUlHbm0wZnZ3dFVMdE1nOERycllDMlpLdC1Sa3Q1VXZONElValpCLXJHRjBVeDJxLTJaTTk0Zw?oc=5",
-    "published": "2026-10-12 16:00 UTC"
+    "title": "Don’t Bet Against the Sports Bets - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVl9sZVFJQjFBSVZobzdXemhkWnVwblhWVWQ5WjJ3akJLYWx2RlhadG9tWTFVRDRuNUg0V1NhTUZVeFhYTk1DdUlTWllxRFZrX2t3UklMMEM4OWhoZ2tCU0pKVmhxcnh5Z21zb2ttalRWTzc4QXpLcDRTVTZsR1BqTE1ISm9KcmV6eE9sbE9JakNmdlJP?oc=5",
+    "published": "2026-10-12 16:38 UTC"
   },
   {
-    "category": "India",
+    "category": "Sports",
     "source": "Google News",
-    "title": "'Absolute faith in judiciary': Congress rejects Keralam party unit's post on CJI Surya Kant - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUENRNmU5VHRfVnJVR3pWQ0RYYXlIYkhBbzNFT1VWZHpETllmRDZORC1Jd2ctOGJnR0xxVFhLWVBkRXZBVHdhLWwwV2lVeHNaMVJwRVlDTFBJaWFUVGdGZWNmcXRCOXhkU1UzNlU2TUYzRFdHOHQyM2lLbWlRN21Ic3VKbVpIVFo5eGFUcmpucEtSZ1htYlRFZ3lUNjJaQkcwZXVnR3JfYklmUTNTbF9ESWFxbDF5NTE2REQ5dnN2R2ZZcllidktyU3AyeEdxRnFJQ25Wd0FZRUNDNjVvX3ZBc0ItN1lySXlBVmVJ0gHwAUFVX3lxTE11SFpzcGVyY3E5UGx2ZGtEaWJGRlhKR3p1bV9PMTMzUDhKOWxkZmEtb05FQWllRVpLNE4wYk1UR0pRc1hwMXNEdG9IQUtUd3Nmanl6eXl1UzI1YnRGTmwwaEZvaWtFNU82ZThNS1pWeEp4cEctbFZXdTg3QUx4OHZnRVVYdWpDdEZaTmJwd0t6ZngzalNYVTJLejVtN0ZvMFEyR3o4Nk5XRXFqQ3BKT3o0WFBQZUNjUTBYSDJfaXk5TDF6aWkzenlOMnc0TXFaN0szUFdSc1R6WUdadjN6Y1B4WjZSZWIyR2lONTNvd2VxdA?oc=5",
-    "published": "2026-10-12 15:03 UTC"
+    "title": "Mike Vrabel: There’s a chance A.J. Brown returns this week - NBC Sports",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0ZMdmIzUDh5UEEybXR4MXJlV3RXWWZMTlpYMFVndjRpamhqbHpkVmRrZlZqUjNRWkZPX2Zfc1p2dFF6TEJFRHNWRC1INXoyUDg0RUJyNjVSNWR0S1BEV1ROYWIyNDlWSTNxRkRUQkRibm0tZzF1ZTg3am1XbDdWUTF5RHdjak16allZV2llX1AxTjMzRjRoZUM3RlNHT3NpSERKZHNOUHFVTkxfd2I5S0p1QzNid3RB?oc=5",
+    "published": "2026-10-12 16:14 UTC"
   },
   {
     "category": "Sports",
@@ -170,9 +191,23 @@
   {
     "category": "Gaming",
     "source": "Google News",
+    "title": "Sony’s Questionable Calls Keep Fueling PS5 Jailbreaks, as Xbox Cloud Gaming Joins Native PS3 Emulation on Hacked Consoles - Wccftech",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2gwM0ExRWhzTWxRU2dTekIxTVRWVTYyc0NRRGp4ajg3Uk1UcWdzcUZ5NW9lczBZVWxRTzh6Q3pld0c4Y3BSS2x5ckY3amNVZDVTX3d3cmQyZ3NrTWFfNWZ5d19VN2hkOEVtZjB4R1RLOVRJZERNSDlnQzF2R3dlQ041ZmFKWXIxa21NcU13UnrSAZYBQVVfeXFMTm1pTldiNEc4b2tnRENlYVBZZERBS2NPaUdGZzhSa2ZoS2R6a1dsaEUwWFQxUndmVXlmVHhzMHU2Vl9OWS14dkthZXhlN3c4NmNWcWdsclA3dlM2ZW4wOVJPSXU2MjJKa3d5U29ZWTBqenRFdWlhUnZDT2xFYkIyYWFDQ2trRWhkX1pJRUZHQ0N2SlVNcHd3?oc=5",
+    "published": "2026-10-12 14:47 UTC"
+  },
+  {
+    "category": "Gaming",
+    "source": "Google News",
     "title": "Developer uses Claude to enable Xbox Cloud Gaming on jailbroken PS5s — allows upscaling to 4K using the PS5 GPU - Tom's Hardware",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdllOaWJCeVVJTko1dGNzV2tETTd0T2JoREdNWlJVV2IxUXRLU3JUdFEtR3lpM2N5UXB6QWxFNUx5aERhNk1mcWRiNktvS1NUMnljaExTeVBTYk9nUWlUNHhvbkozZnBRc1dSZWpLcGQtV3RaczViZ0NJMUNXaDdQTkFwdjAycktSYUxUdW5TNTFjd3F2N2ZianEyWkF4N21lN1RCNjdQek5FazFMdVdPWGFxUWFpRC1SdHFvZkZFbDBGWWJabkI2MGpXbWNwMEFmeWNyd0xIanFQYWZsUlMyVUR1S3g?oc=5",
     "published": "2026-10-12 14:46 UTC"
+  },
+  {
+    "category": "India",
+    "source": "Google News",
+    "title": "Kumar Kushagra replaces injured Pant in India A squad for New Zealand tour - Cricbuzz",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSE5VSFFBRWFmRWdsakRJRnhYaUIxV290YVlHLUF1MUJTZHc5cU5PcFRrRG4ySnRRWFdINGZRRENpeTIxRnF4eWlwMG5BVTNTN0hvUzVFeTJZX1plX2pHU3Z3ODQ0T240dTc0OTBUeHhUQlAycGxpa1JqU1JPVkE4cEtSX1o3MHBLVHBPMW9Xa0pVcHpLVHV2bFZ6Q1k4VFU?oc=5",
+    "published": "2026-10-12 14:41 UTC"
   },
   {
     "category": "Gaming",
@@ -182,18 +217,18 @@
     "published": "2026-10-12 14:23 UTC"
   },
   {
+    "category": "Sports",
+    "source": "Google News",
+    "title": "Georgia takes top spot over Miami, Notre Dame in college football rankings - CBS Sports",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemJjLVhBTVRObDFCMGt6XzNsQ1B1Q3gzWERuSmFJeU5ESllld0JBaDJQVkJpZmxHXzNiOU1TMEVPRHJ6dFJtZlZVenJBZC1ITDl4WWg4RDloUEs3NkxNTFhaN1VmeWJ0alpFVjgwd1JDRXVHMlZCM0c1cm5pU091WFV0UTU5RC1Ec0kwejA0WVZVSGtxbW1rcnFLQ2drYkM4b2xMd24wZlVlbmVYN01zb2RzQmg?oc=5",
+    "published": "2026-10-12 14:22 UTC"
+  },
+  {
     "category": "World",
     "source": "BBC",
     "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
     "link": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
     "published": "2026-10-12 14:11 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "James Madison University is Accepted for Membership to the American Conference - James Madison University Athletics",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUVCUXl3TUlObEhPNDhTOWRmM2pmLTJkejQwNEY3YWxNb0dIMlRBRUxtUF9ESFZoR1MtanRuQ0F2ZnNkeU5uMHgxQTNrb1hETWcxaVJWekc2MklsUUZlREZqUFRJWE5TeU0xaHZjUndPOFV3Nk41VGljM3lJd1I2dmtNLUN5b3hlTTNpREg5S2hYZ0p0ejIydEswcElkWEcxanc1VE1YMER6dTcxMVF4eEwzSjYxejFsNjhfY0kzb0RLbEdtY0swaDFrdVBoTGs?oc=5",
-    "published": "2026-10-12 14:02 UTC"
   },
   {
     "category": "India",
@@ -217,20 +252,6 @@
     "published": "2026-10-12 13:53 UTC"
   },
   {
-    "category": "World",
-    "source": "BBC",
-    "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
-    "link": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-12 13:49 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "Six Games Are Heading To Xbox Game Pass This Week (October 13-16) - Pure Xbox",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFYxM202MkVwaWw3ZTFBT1J4czZNS1pBVEVHdDVTUWZIN09fZTVDb0xHRFkzbVNwaGFhYVJSVE9aUTA0WUlvT0paOXJ4SGdMa2liZjdmYTJLVXZtU1Rqb3FsLUJKYkYwZWlOVjRyV1BZeFI5Mm1IMUFIRkZ4Z2RHUVE0M3ZOMUpseHNtZ1cxY0V5VUxjMFJoOW10S01rQ25HRElr?oc=5",
-    "published": "2026-10-12 13:00 UTC"
-  },
-  {
     "category": "India",
     "source": "Google News",
     "title": "India vs West Indies: Why India turned to Naman Dhir - Cricbuzz",
@@ -243,27 +264,6 @@
     "title": "Rahul Gandhi Leads Massive Rally In Delhi. Then A Supreme Court Visit - NDTV",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnVkRmpMcVV3dzhSaTNZN3RhOTVVbXJ3Sm81LUhFTUY4Vl9uMlRueHN0eUo2XzEtM2ZXY2pJYmhNa2xyMFJGREtvcldBUmxRdnpqNnc2RHk3azhSZlVtdXlhNVhNVGIySkR0UlgyelVtTG1rdW52cFh2RlExS2lNZkhURmlRMXJlLVNYTGozOEUxRmJoOTVYSnNacDRhQmtodlZTcllCb0hTbjNlWmE1UG9qTGdJNU9yZFpUaGZuM0dxeHhfV0FlN2ZwWnNKNllLejZ1RFlRVUtINVFUSG14RlNWWVXSAewBQVVfeXFMTThra2xFX1l5blJ5SXlUa1lkeTdJRkMxVkptNEpQRzdOZF80SUhTME03VGNOUS1DVGhJQm1UMTVWR2xNWlBnY1RHTERRN21Rcmk2TGxvdXdKT3dMR3FlN0dYZ2J3bmF4OWFBSXBGX2lYRmR6azMyZ1ZWMXZUYnpteDNPeHJqYzhyUGFOWEZUY2xZaEI0UFdONF95M2l5UnM0YkNHdDgxV0ROY0RmM0hZSzhrWGYyYzRGMS1iTmNidVlOa3hpcGpoNjNLNXZBYU9HR1hDVmJqWkIwQmN4VlZZNEhwbVNia0NRLTZUV2Q?oc=5",
     "published": "2026-10-12 10:39 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "GOP looks for midterm enthusiasm boost from pro sports stars - The Hill",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcjlQYWRjX3UzZDhsUlQ1VEFublRQR3EybUFoeWpJR0NhcEY1RVhSWTZmNVFTYjY3VGQzV3FKRmdkZllzYUF1bjdTaTVpYW9KSEdIUkZBYmxyeEE4bXBmWlZILXNnZGtxaHBXRW80aTM1N0JUNjJmem1XRGFZNzgtVHFiT0lia0RqSkk5WXJuQmdZTGs?oc=5",
-    "published": "2026-10-12 10:00 UTC"
-  },
-  {
-    "category": "India",
-    "source": "Google News",
-    "title": "\"Supreme Court Doors Open\": Chief Justice On Saying No To INDIA Bloc Meeting - NDTV",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcDhtdTdOVFc2eGUwZnQtN2NsNmc1NGZPTVJ0U0wzYTdkOTduVWpadm9yQS0xRm81Xy1oV0puUGxlcWdqUGIzbDdvWVNoeU40NWhCWlZJVFBoNFk0OXBvbUh4SUl0WkNVWnkwSm1STEVFMXhyWEVOd19TRUZsSUladVhSTmt6VFU3Q29FT0xRMFljV0QtVWRtRDFpSnNybmJUVHNhakpvaWk0c3g5ZEhNU0wyVUJGTFBaSnBkRE1wcU1MNWg2SWJ5MktvcERaNnVLOXhuNERWdVphLU5QU05r0gHnAUFVX3lxTE1vVlVGajU2OTJNcU12cjhyVlJzQkhXWmFCeTRfODNXTGQ2bXNmdzlsRHJRUUFNT0tVQmVKeU9mQlQ0VVJEMlJDbjc4VWpqdUVZeDhTRGl5MDFCaU5yb0Jjc0RUZkgtVlJYNDdvZl9LSnAyd2tCMGludkZHQ3hva0cxZm1ybjVMdjlhdGlNVWtLZkJJSUVQWlZCa1VyT2ZqZ0ZlZy1BSmloclNXRU1lT2Vfbk1aQVFjZG9fa0g1N1JZNmpNS19rWVp0SXRlZXZDMDE5V0xYSWx3bTNGT0k5X2d4WXk5Qk1ubw?oc=5",
-    "published": "2026-10-12 05:48 UTC"
-  },
-  {
-    "category": "India",
-    "source": "Google News",
-    "title": "Watching videos of Kohli, hitting the deck: how Australia A conquered India - Cricinfo",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkdrbU1wQVFBdVVwZzNxRHNFMUNVcXpOTHJJd1lJcW9rVldoT0F1emVFWVVhWTZ4d2tQQlpJRzlqdmRZRDlmUUhya3VPMkRhdmFMVGhyOTVPUHp2a3dDcHdFV0NhRmNzaEZncFVHNDVtZWhmNkJKLVk1bTY5M1pEeGZZQ3JCUmM0WUc3aE5NdlQ1b0hGR3BHdVBBUTBNTzI0SWRBTzR0V2tMTDVpd1F6SDd30gHDAUFVX3lxTE5GTjBHZDNNc25ack9UZFNIUjZzaFRfVmtkSkl4MFdFdXdtM2RJZml2eDBxTUxqR1Ztb2FNeWxDYTRpSmt6Z3dOaEJvOEw4VHBMYmtFRGZQS05zV0NjT3VJNkZIam5ZWTBPaTl4SVBlNlJBOG5saGhwTmZLanlNU08zZFM5Y1VTSW1QdTBsSm04cl9EYUZpV2Q1enJmRm1SempOVXFTLUNnMmhZRm9ZWFhLT1NjSVd1MXEzVDY1czBacDNSNA?oc=5",
-    "published": "2026-10-12 05:21 UTC"
   },
   {
     "category": "Technology",
@@ -282,23 +282,23 @@
   {
     "category": "Sports",
     "source": "Google News",
-    "title": "Rapid reactions: Cardinals fall to Lions, their fourth straight loss - Arizona Sports",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibE9UN1QzTloxRm5rM0tVaS1HUmZTUWl3M3RHLVNoOHI4TmkyUGd6QW1jY3JzbWNMblNLME9WTkFoUXZ1bGJ2R05KN3g2Ym92N2Q1MFY5ZmdpVER6TFRMaHo5blpxT3JpR3pGbm4tRFFnck1WT1N0ak9BSkZYT3c?oc=5",
-    "published": "2026-10-12 00:56 UTC"
+    "title": "Connections: Sports Edition today: Hints and answers for Oct. 12, 2026, puzzle No. 749 - The Athletic - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1AteXprZUlmVTNFZGs1WWVMNGtrdTdmRks3YldqVlNzVFNhT21BYzk0Q0tjM3pPWTBwMEd3MlY3c20xaDd1dFdXVHFjR3l3cFVkRktRb0xHd3hHNmlqeHlwZ1JSZUdpMDd6bk1FNmhfM2RIR2JmZDdIaXlNTzBidGZEN0p4cmpOZjY5M09Zc1c4TTI5UER3azd5TTBLbnV0QmU5SzQ2dUo?oc=5",
+    "published": "2026-10-12 04:00 UTC"
   },
   {
-    "category": "World",
-    "source": "BBC",
-    "title": "Trump faces growing backlash over plans to import diesel from Russia",
-    "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-11 23:18 UTC"
+    "category": "India",
+    "source": "Google News",
+    "title": "“India, you’ve come a long way”: Foreign traveller returns after 17 years and is amazed by the country’s - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOWE4zOXVyWHFtblpxX0QwdXRuQk5RY3FYZ3RQV245OXRHYklrMDNKbjFwNmFNcEVuM0JtRDFueGJrRk5mTVp3UnF1X1l5YmdMeExmTkM3UTlncUZnbkxzV0hsLUt3amZFZ3ZSS0lhYzJ0UFRzQXFtMjZJdlRGQXNueUoxOWJJR0pKR014aVRzLW5uTUtsOG1Xa20wWTRodlVsNUlhQjBOT3JVMUIxSFQ5cGRqNUlQeEpsd2duRnpfZkhJVjBZTWxmNFpTc3FNVU1mY0xBNEpMc3pxenR2QlJGbDM0ZlRqelc1dVpITGpjd1QwZ2RhckpYTFZubFphbFpmSzR5cUItQldna1JWd0F5UXhTQ3NxTkthckU5aklZUnliLVpVVVhpNDlHWlNjSmPSAbQCQVVfeXFMUHc0Y1hBNnhBcGVES2FvSFV1U05zbmRiMGhBdlFsblN2UUZ2THpmTjIwZUlvY3RQckxHTjVEdEJGOUdsS2hLdk91V1pxdmRZRV9fVVIxMVZJNGxTSnl2OU1vaXF4TUFKVGpMTmRHYkkxOW00Yzg3V1FfTVVESTBKNlBqOXROeUowZkxMYWYzajVCZlpOeXNZQmFYajJHQjdEc3FuVmhPWGhqb0JsSGFnWjQ1d1N5YVRrVjlSb2Y0b0FySEZMZ2pWMmNDQXphY1EzOXJLY0xnNFVkbzVJWTJBR0txcGxhWlFVTUZPMGhwbWRRN0E4Y013YkxmME1PTW9wQkQwZ0NaMUJabC00Ym9SMzBDOC11LVNtZzNEcHFQRDNodjdMdmptRVdxSjdRbnVQUzZIbFg?oc=5",
+    "published": "2026-10-12 02:44 UTC"
   },
   {
     "category": "Sports",
     "source": "Google News",
-    "title": "Marvin Harrison Jr. trade grades: Cardinals extract near-max value from Texans for former top-5 pick WR - CBS Sports",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMV9yZXdKS2lFLWZsTE5WVGxBUVE3aE5OS2taNUJYa1VTeVo0NFZHalhDZkZ6MVY1c0l3SFdFQk43UU1PbzBtQkY4YWdTUmN0eVNKVHdRRF9rankyWTZqdUFtRi1ITG1VaU90VllNYXAwazZQdU9ZZXlEMWo5dUpkMXJWQUlCTHVDcTc4Zw?oc=5",
-    "published": "2026-10-11 21:37 UTC"
+    "title": "Rapid reactions: Cardinals fall to Lions, their fourth straight loss - Arizona Sports",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibE9UN1QzTloxRm5rM0tVaS1HUmZTUWl3M3RHLVNoOHI4TmkyUGd6QW1jY3JzbWNMblNLME9WTkFoUXZ1bGJ2R05KN3g2Ym92N2Q1MFY5ZmdpVER6TFRMaHo5blpxT3JpR3pGbm4tRFFnck1WT1N0ak9BSkZYT3c?oc=5",
+    "published": "2026-10-12 00:56 UTC"
   },
   {
     "category": "Sports",
@@ -310,16 +310,9 @@
   {
     "category": "India",
     "source": "Google News",
-    "title": "Shedge and Gurjapneet give India A consolation win - Cricinfo",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZkQwVkVfLW4xZHdCXy00REppNXRnTVZ3VzRJN3Y1UWt5V0dfczZDc3VIRmwtbndrWk1lSDZPSzlXYjJDTHhpWV9mMUNGY1IzOTdjczVlSGpCZUpqTkJycWhTZF9IR1I3VWpLQXhmWG9sT0hld0ZoR2puSnVLXzJqSGJNVmd3T3hTTmFGZ2tiajBseTB6ZzI2UlVWVGdvNzJSd1AzT05mLTVyNnBUcGdsY2ljazdBY2dvbUNJUVNmejg5Tkp4VDF0TTlnZw?oc=5",
-    "published": "2026-10-11 18:11 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Roob's Observations as Eagles suffer unimaginable London loss to Jaguars - NBC Sports Philadelphia",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVUtN09HdFVKMVNfY3U3ZEwtVzdaZ2E2eUtUdjRtR0M1eGk4cllGZUpSTDVPaENRNGg0NERaZUtSVWRFSld5UHhYNElHaGs4dXdnUHM3Y3RlRlB2VnRaeGYxMjFrZ1lTbnhyY05ZTFZpX0VyaFFjdTZjZENLdUc2UU1ZVlBibmtJZFN4QThRTDlCVTNFa0ZzNHdOWVNHaTVQcUlZdDNvYzhyODJpVmZ3V24ySFZZMkJEbWNnUkNmd3liNFRyNUs1Y1l6YnJnak9fM3lsbUo1VG7SAeABQVVfeXFMTXlMWXJHbDlqRjlpNTdwY2NkRF9YMFZUVkFiWVhabkxVMU9lcHRPLW9taERaUmYwMVR6TTBXQTk0WC13b3hHZUpfdGp3UmozdXZvRUdjSjlZdnhaWHN5QWtkUjZFXzZLdjdZR1FPUjBNSnlIZ1pjejFJV1BQdVM5X1JtMC0tX2dlZHg2bkpud3J2ZXJJZk5FT3FpZllKc2l2aHA4bjY1dlp6bmZ2QnZaMjVpcTcwTlpHVlZzSjROSjhsSTNlVzg1em93MldadVk5aWNhWV9KcnB5MXdIeTdVYmE?oc=5",
-    "published": "2026-10-11 17:28 UTC"
+    "title": "Arshdeep and Abhishek power India to 2-1 lead - Cricinfo",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazZuMjVJOGZNX2tlcEp4UURaSGJsekF2Qm1yeGtuMF9SYkFodXJOWkl3LXZSOW1YdW5HeWdCd3RmVC1zbnUwaHNyZUNiVlpqZEo4YjNZTlo4VmlyX2g4UWJfWTdrTGFZU1B1OFBhZXhyM0ZVT2RHblg1TzVaQklzdkhzQUFJSWFTaGxTVmd4OWdQQ2w3Yll5SXJ3WW9rZllzUFIxOUh3UXYwOWx4aVlSXy01OXFodUNmWGJN?oc=5",
+    "published": "2026-10-11 17:27 UTC"
   },
   {
     "category": "India",
@@ -334,6 +327,13 @@
     "title": "Marvell Technology (MRVL) To Showcase AI Data Center Solutions At OCP 2026 - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ1NURmFvUTJDeUR4ZG9OcVVqSEhiTDl5aG1hejh2SWs3Z1JNSEFwOXZtQXFqY2JOTXE4Y0RGTUJEdmlRdzBiZkVHMzZqMElFNVVYRTdLSXU3bDkzeTBKTXhJWHljczZVSmtLUTVkTTdERzd0eTB3a3QxWExINmdGWnhGdFZYR1VBVXN3dFpOTVZxenV1eWhsVmtnOHBhMk9G?oc=5",
     "published": "2026-10-11 17:06 UTC"
+  },
+  {
+    "category": "India",
+    "source": "Google News",
+    "title": "India vs West Indies 2026 - 3rd T20I - BCCI",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13WGFicFlYUEg1Rkp1TXNyZTBVOE1pMGVxR3JQQzVOazlYQUJFU1VsWkZuYUpuMWFGcmlYdHRYNEo3MGx6NGNLOHdxd0pqQV9OS25Ubkg0MWExVUJPam84Y2F2eG9wNXRRVTg3djJB?oc=5",
+    "published": "2026-10-11 15:28 UTC"
   },
   {
     "category": "Technology",
