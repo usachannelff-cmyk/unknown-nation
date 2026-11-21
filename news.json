@@ -1,38 +1,94 @@
 [
   {
+    "category": "India",
+    "source": "Google News",
+    "title": "PM participates in the 5th Kaushal Deekshant Samaroh in Lucknow, Uttar Pradesh - PM India",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWZFWC1tTWltenE5N3RJSXpLbEl2Nmd0T0diVWw0S3JpUmN2eEN6MFVuNDRkT0JmWDBNUG5oODh6SFZBNHltSjZ6bm5QLXlkaDlhVkQzRGFEdDZJYk1fc3NoVUhVMFFZdThuOGtFQV9RVVlDcnpmNmxndU51UGR1QU90MW9kZTNYd0ppeEdrMG5YVHlCcmpJdzczem9yakZSUzhxdW5yV3ZYWTBqUVE4NmNmOHhUVGs1Y1JTTC03bjY2TnBoZkZNWXkwNWtRN1htWWtj?oc=5",
+    "published": "2026-11-21 17:18 UTC"
+  },
+  {
+    "category": "India",
+    "source": "Google News",
+    "title": "Watch: KL Rahul’s record ton, Gill and Pant’s knocks put India on top against New Zealand - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNjdLMjdBaDVaV0dMQWFFaVh6Z3RtN0dHYUVHclpONy1CVFBkY3lONFg0TmVkVXVSNDQ2V0pidmVxU2dsNkdkS012c3dtTjRkaTJjQmFlY3VWVy10aVpvQjRzS2I5Mkh2YjhtQ1h2YWtrQTRHV2J3bWJaUlI1WXBNc2U3TmM3MkVWZDVnZ1pYbVkxcEo1ZnNaVUhZU2lNb3J1MGNyUm51d1lNN0kzWFU0Um9ycHB3UjJmZ0dKQll1VWNESkpBMlVmQ1N1TGU5MklmVnFR?oc=5",
+    "published": "2026-11-21 16:42 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "FBI reportedly investigating apparent hack of its criminal database",
+    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-21 16:35 UTC"
+  },
+  {
+    "category": "India",
+    "source": "Google News",
+    "title": "Congress youth wing takes protest against Meta to its India offices - Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1QxdUFYT2JsR19odnItVnV2YXNFWlR5U1phV2pLNkJnT3N4RlBLcG1fWFFTbmtBZ0lpVFpDaUtndWRZZjhKdTMyZTd4eTBTTjZOa09mbl9KbFB5clptZnFMaF9IcW51VDJvSzdwSTNKb3QtY0l2eGZtbmtsaGlWUHNZaGJEUFVMenUzblVSNkFSWXBMM0NXeEJldHFkdU9wdm5nLW5mRzVjOGtHMnFWMXdPRWJaeUIxUE5wQ2ptYmxfX3MwTU9BanFwanfSAdIBQVVfeXFMUFBqc191dzJmOXVLOHk3Q3oxcV9QNVlTd20tQUE3TlpKN3I0SDN5LWZRMjBxOUp4VnpjT3p5ZWRhckV2VDh0amFtNENnQjYyWGFWSHhfMXBGZUZBc1kzSGJsVGxNMHJRQTFjelN5VnVMRFZfa0ZpbVFqRHFzQXdKSmpXak42Nko0UVZRaHdPc19tSVF4azVHNV9rNmhfNXo1RTQtcS1aeW1oOUhaT2lfelpEN2NickQ4UjF2Q0JXM1lZczVjaFVfTy1PdlFjS3ZkeVp3?oc=5",
+    "published": "2026-11-21 15:03 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-21 14:54 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-21 13:17 UTC"
+  },
+  {
+    "category": "World",
+    "source": "BBC",
+    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-21 13:15 UTC"
+  },
+  {
     "category": "Technology",
     "source": "Google News",
-    "title": "From screens in class to smart glasses, Norway rethinks new technologies - Phys.org",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bWRnVU1wSXZ5MUhub1FEQ3ZvYUtGM1lGMkJ1ZUItT1NoR3lDVzBmdDVmT2Q1cndxbUVYSWNnX2NkYjlyaTBncTVFb3l6dGtqVmRoVnZOZDhyY2piWGt3VU8yQVRWZWtCMXM1ZHc4bkdqUXpsNDVUSQ?oc=5",
-    "published": "2026-11-21 10:20 UTC"
+    "title": "International UN talks on controlling use of autonomous weapons collapse | Weapons technology - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUNMSUo1X2dYS3gzSVJxMmttOF95YXNZSHVxdkVqcVNocWdsSzdqMVROd0hjdWZWM3ZDbFB3UVFiNVZtZjQtTjhvUVBIMDF1eXAzdXRhRGcwTmVHajZyS09KU2hZdFRfam5GZlZSNng4emstWlNWakpZUW91dU05aTVZcjdXMmRMX2VZYlEyUWZHbTFTcm1ueklldGNia0IzeG4yVW92RmJISUVIVlE?oc=5",
+    "published": "2026-11-21 13:15 UTC"
+  },
+  {
+    "category": "Technology",
+    "source": "Google News",
+    "title": "Tech outages are fueling a new doomsday economy - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmVDdkdkhjMVlqc3c0Q21Tb0I0bi1TTHdvYVhDWm11X2t6eTBoUzlTWGlYLXpNTlp2bGNnQ3MzSVc0WnBQbkY3MHVzRVpRRHFQQWlEUXlOcE5yQUV2T2ZnVWxlQkt2andiXy1rSm5VTG9VamtvRUpLdjN6U2M3UdIBgwFBVV95cUxQZ1c5SEFMOURPekZKQURlaG9aTTdEVjZFRi1BMnBBUkl5Skh1d2JKY3d1bndKLUpXYVdtNWRHWEM5SHpEOVI4cnBheS1tZTl5cXpNRk53WXktSUlJcnRkTG9BMExxOXJ1QlpoMjdzblZJeTdWcXJ0c0p1MFdQR1VzQXhObw?oc=5",
+    "published": "2026-11-21 13:00 UTC"
+  },
+  {
+    "category": "Technology",
+    "source": "Google News",
+    "title": "Pope Leo XIV: 'If technology is not applied ethically, risks for humanity are enormous' - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjRsRWNIeHptTVFPdTU1ODlVdGdtZEo5SmRjU1ZCeHhqLVZUSGtMN2dmcEJGTng2QzI1WlYzdjh5QXk3T05iTlQ3RjJEM3ZySGZtU0dkR2IyNWhhME9CUVJ5eEt4a2FvcjdNLWx3ektIYjBfQnpQUjc0Ullsc1NMSmhONlBlSDVla0NicDVtNFNyRDJIU2VvbVZudG82eVhPSk5YU1oyZ3Z3a1hLRlpjM0ZlVQ?oc=5",
+    "published": "2026-11-21 12:36 UTC"
   },
   {
     "category": "India",
     "source": "Google News",
-    "title": "PM Modi: ‘Break the limits’ mindset transformed India - The Hindu",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnFzcUJ4anlyaklYV2ZBb3FVaHl1YlR2emZCUGY2VTd2NVhBSzBaRXBURUE5RGEzYmEteElFM1p0UmE0QUZjaUdiVHR1VkFsMWNKS2pmV3ZpUzVSLUc1cHBkVTU2aGdNMmdPTkxaclpiTUxoZFFSQWVnMFBNcnZMQkR4Y2UtM1hkZXZoeEhPakwyVXZIVzRRSC0wTmZIMXpDeVZxQXh1Y3dBVEhNX0E?oc=5",
-    "published": "2026-11-21 10:06 UTC"
+    "title": "'Turns a blind eye': BJP takes swipe at Rahul Gandhi as Trump hails India's GDP growth - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbm9UdWZKX2dTNUxVSWJsalY1aFpVb1RFcF9TUnM4T3hYeGJMcDJzbmlGd0gxcVJCM0Z1RjcybTV5V2dWNjllU1p2Z01jcFBzdkgyWVdWREhlb2d6R1FFQTRvRlFfN1FMbXQwZHNSdjNDamozQVRKM0ZHb3h4enpiNXdKV01palBCMzNmWEVqZEFfUVVwQUYyZlVZT2Y1NlpNMEJUUGRxNlhvVUR0b3hkZUhhZENoUFllU0dQZ0N2TzBOcjBDU0JwQUxyYmJyZV9qaDNwNzI2T3lVeUtVb1NOU29VVVp2bFXSAewBQVVfeXFMTkZmeTRGSXBzTU92cE91dWRaTGx3ck9xZjVVYWlYd29MVXVUdzNEMDMwbUdjSVBjNUViYWFkM0tyWGpIYk1KTmkzZWZ0LTBMQVpvblhYVDlzTTdFTjBsRkhEd1BRaUZXTkN1azNISE1Hd2VTeDNMUlRZMDkxZUxWald2b3c3WmdwTzA1YmM3dDVLUzJsbUN6Yks2bjV0VG5XSVMwRmxzYlRmTDN6bGdzSEFCVjhoM2lXWkRDWU9YUlVsV3d3REZmbUdXVGJMa3hTYjZJVTlURGZ2djFDaExkTFNUVUZFdk9sRGtxblU?oc=5",
+    "published": "2026-11-21 11:37 UTC"
   },
   {
     "category": "India",
     "source": "Google News",
-    "title": "Sundar Pichai's alma mater IIT Kharagpur to get $5 million funding from Google - ET Education",
-    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNcTZoLXdseGFlaDBUM0prZlZocXZtc0l6UlNnLTEyUmM5dzJHdGZXS3NiaDkyZlV5UWJNTHRSX1hqNm9GRVpRT2dCYzMwanpUYnRpdlNDMTNBQVd2WGtCZXBzekdBQmdYaWp5Q1pZdFRycElnM09VVVZQUEVlZl9CcHFpNEVRVEswYmhCS0RiRXJHV05oejdhaXZuZW82djBVcURwOWZUa0c1dU1IdkRsSTFLMl9MR0YxY1hxNlV1YWJ6NFBVWm5kYTVCZmRsaEUtM0pscllZUkx5NlFQTXZHTmI3Q1JHWHhqYVhtWXpEVUM1M29ZdndqSjdkOEdzN1ZzN3NIQXJXN1FjYm83ZGFyLTl6dUQwdU5VeHFLSTU1YUpjcHdL0gHvAUFVX3lxTE5lWUIwRVhmeEVuTHVEZHNTM09fbGgwdm5Vd1ZCQmhuVzNObDVRRHAzcWExeS1aMTlDZzNGeWVpRlMtb1gzQ2I5SGpyTkROOFZ2VDczZjlOTlNUQ1NvRm82ZmNaWE1zd1VydzZrLUNOMXVwMG91V2J5RDNjb3JGdGtXZHBHVjhxYTBKSXpwODFTWmZ1akFzTV9tQUVMU29McFc4VXdTNmNVN0lWamhEOUFyX2FJdUw5WGYyRnZaWmttOEJWRWhPT3RWX2hJbU5EOXFCaDEtN3dZUW50bU1wcjlWdWZ6Yk9UTDN5NmJJRXhN?oc=5",
-    "published": "2026-11-21 10:05 UTC"
+    "title": "Rahul, Gill help India take charge of 1st Test | Dinesh Karthik reviews Day 3 - Cricbuzz",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmxWdzNUS1N2c2RERWtFN2VXM2MzcWhHcHU5N21JbFl6aVV0MkZ4S3NIYWdBZlo5NlV6ZWhvSTlrU09RTkNrZjBnb0hxRWFwUzFfWGJyREdmQXhKZTBUNnI3N1BiQ1RkZWktMzl5Y2ZGQk9sQV80U2Z0d1RWTzF4ZjNuQWQ1RXhUYk1rT0lRNWlTNG01V2JhZWsyS3U2QU11NzJVbW9IT29tS3RFSmxwcU9wTHdMUm56cWxNcXB3?oc=5",
+    "published": "2026-11-21 11:20 UTC"
   },
   {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Michigan football picks vs UCLA: Trouble Bruin in Ann Arbor? - Yahoo Sports",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjZvUjRkLUhyWEhzcktPeWxhb0V4Y0lnaDNGQnAtQVRldHFFbFdseHJQdmlESnB0T1ZwRGxtQVJWelBtYnZVY0dEaWM5SDJZaUFJQ29MLTRXLWNvT0kxdHRSU24wbGV6bHlHN2pKbkJXTTJpY1JSWDV2M3Rqb2s0SUc0LVZzOGs?oc=5",
-    "published": "2026-11-21 10:04 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Where to watch Tennessee-LSU football: TV, channel, streaming - Yahoo Sports",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR1FuTHVfcVVzX1R4Y0JsSzRRbG50U3puQWJ1REJ2VkVXRUJqdTVlQzd6NGZkZ25fWDEtTHFjeDhJbEpSamdwTHluRnlVN1kyWGZvcjkzZGZyYURrc2ZaVE0tTGZURlpXdXRaY0pvV2NnYktrbWpHSzY2UjVSYXV3T0p2UTJ0Y3JWQVZZ?oc=5",
-    "published": "2026-11-21 10:03 UTC"
+    "category": "World",
+    "source": "BBC",
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-21 10:26 UTC"
   },
   {
     "category": "Technology",
@@ -42,27 +98,6 @@
     "published": "2026-11-21 10:00 UTC"
   },
   {
-    "category": "India",
-    "source": "Google News",
-    "title": "Eco India, Episode 339: How cities strive to create energy independence through renewables - Scroll.in",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa1M3R1N5Mnc1YklkQXdVSHU1OUtuRFZLTE9zY0Yxb2o0d29SVjNhVVpJSnFObEZUMzFYckFnYjVOMmd4eVMybE95anlQT042LWxTX0h3bUNNVkRvbURPcndmY0dZcXFWNXlnT24xdENWRGhpVUpnc2NDUEM3eXk1ZnZaLUEtQjgtVVN2WWRhTmxGQ3RrT3JkT0xKTXJYdDBJSmpqX0tWclBYNk1SbWtTWUoyckNrOERCaUFQX9IBwgFBVV95cUxQSDB6dUhzenFVTkFGQzBKdkpscHVOcjlhZkR2TnNMSExTbEdWSGVYcVMwdlBBMTA5X2E0UnY4MElkQjhsOVVBSEtUMFJzMjZJc2RWMGpDa05zYUpUOEhMV1hnLVZ0VTB5U1hELXJFY3FpT2NBcDd3TmU5aWxRempXWXFDSFI4RmptSTJlT2hrRnk3bm8tWFhxRzFyZllaWVM4bmo5ZWZ6ckF3S25POEV3SFgtYUZZejQteHU1Y2RKdFpjUQ?oc=5",
-    "published": "2026-11-21 09:55 UTC"
-  },
-  {
-    "category": "India",
-    "source": "Google News",
-    "title": "China-Pakistan ties raise two-front conflict risk for India: US report - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVRoV1NDUEQtdGxlUV9tZDkwZmxtbnFVcmZ2aFRmb1ZzY3FRWjZ4b0JfMTItMjJfNFFfa203NXBTc08tSHE1Qkk0RnBYV0Z4a0Z3UFlvUGJRMXRuS1cwdGpqU0NJM1ZuOVhWc0h1UlcwQjlQQ2RUaE4tcGJZYjU3Y3A2aHB2RW42U2RmMGE4eFd2NVlFNzVLaE9qV1JzallMNXBkd1dkVm9HNVhZU1U5UGxsWmE1dE9tYmhTLU14aVp6d19UTlB4UHhiejdGSldoaUdz0gHYAUFVX3lxTFBuSmFmMDlkZ3BBTTNxZTlBZEJxVzYyRm9pdHJ4ZlRoYllRNTZVMzVrWkpUaWFMeUdDZ0tmLVNRcm1nZXNlaHNnblVKOS04al9WR2kxZWpteHRNcGh1R3hXVGxRRjVpNFNwVTF3SFJWTkhzWTdLazJMV1BNOWxyeXVWbmF3Q29SRXJURDQzWTdjMWlmMU5RajFfbzF5MTVqLUFaTVJJSDVGOGV4aVB6RmNRME1NNVJLbnFySnhaQVVGQjJGNHRHVm5KOWpuWUZKcnhPNm9Zb28zUQ?oc=5",
-    "published": "2026-11-21 09:54 UTC"
-  },
-  {
-    "category": "World",
-    "source": "BBC",
-    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-21 09:52 UTC"
-  },
-  {
     "category": "World",
     "source": "BBC",
     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
@@ -70,17 +105,10 @@
     "published": "2026-11-21 09:40 UTC"
   },
   {
-    "category": "World",
-    "source": "BBC",
-    "title": "FBI reportedly investigating apparent hack of its criminal database",
-    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-21 09:34 UTC"
-  },
-  {
-    "category": "Sports",
+    "category": "India",
     "source": "Google News",
-    "title": "Red Wings Are Losing the Culture War - Yahoo Sports",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjdhd1RxcjhoamNER1BNSWtyTlRTNTB5aDEzNXRYT2JVNWRsNmVTSVZQdWNhb0t0a3VBbS1YR1NLSjdpcU1VVk1hT0R0WndwdVl2ZjBXMU1ZSW45b0pLNVc0NVJvRE9uSkhvbE1waWZVaHpIMWFBNDR2OUs1WGZCT0o2UQ?oc=5",
+    "title": "India's near-perfect day puts them ahead in Wellington - ICC",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN0p6VVpuNGxVekpNaDZBeldOV3VzWTZqNHdUNlZTOC1ReWR5N1ZDTTZjOVZYU1JBMk1TS2xaTUZmekQyQWl5amVCTVQwc2ZDTG5PbHdSdmpMRnFYT0tNUzFEWTEteWFPR2YydTVKMjN0X1MwV3lQS0E5ZWVfLXY3T2ltb1BXbGFsZmFIalQ3TzVwQ0c2RGVuQUlRaUdzNmdwZjNmcHVJbEpKWWJBbndBei16ZWNDVkxaaTVLSWlXaTk?oc=5",
     "published": "2026-11-21 09:00 UTC"
   },
   {
@@ -88,28 +116,14 @@
     "source": "Google News",
     "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy. - The New York Times",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zbmlJX0hZMk9YOGp5MjI5Y1hRR0lYVG5TWVcwWk5lLU1fUlNzc1BVdzEyQ2RXc0Z4a1FpMzItQVNsWXhVTEFqbC1JazdvOV9yTEk5cGZvMnI1aVpCdHZLck5FaVhGM1FKWThfMHI5SC15d3F5Y1p6NC1IQ0dUZw?oc=5",
-    "published": "2026-11-21 08:25 UTC"
+    "published": "2026-11-21 07:59 UTC"
   },
   {
-    "category": "World",
-    "source": "BBC",
-    "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-21 08:10 UTC"
-  },
-  {
-    "category": "World",
-    "source": "BBC",
-    "title": "Trafalgar Square Christmas tree felled in Norway",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-21 08:10 UTC"
-  },
-  {
-    "category": "Gaming",
+    "category": "India",
     "source": "Google News",
-    "title": "Did you come down with GTA flu? I won’t judge – I may even join you in Vice City | Imogen West-Knights - The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGhZQld2NEhvenVuUWRRdUcxcnNsODNDcTlxN3BQeDRzOFpQMHRiNHZFWjhET01yaFFzM05xUUZXSTBleGJrMHU3WFNKTTVDblNuS3l3dE1uaHFFZmpsZGRlS2hUVHFXY1dPcnRxTnlRVHhJenJQNE16ZFEyLWw1WndIb080OTk2SExtT0diREg0eFU?oc=5",
-    "published": "2026-11-21 08:00 UTC"
+    "title": "Key takeaways from the Quad, ASEAN-India, and East Asia Summits in Manila | Explained - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNWxiRDREam5fUjhhZjktY3RMT3ZHbHNfdGZqbFoyRUR4YUlKUEhvUVpJVndUSHZrazlibUFBc1ZZZ2RSVDRXTHpZRTNBUWFFb2Z6WkYtNzV1V2FzMVltcm5nZmQ5MFZZVnJ3bHhaZEt4dG5tcEFxd0xmRUY1QlFidEg4ZEZxTGpzM193NDJEdmZJWWMtYlpaSlFMbExNR3VNMUVTZTBuV0dDRTh1M1c5dDFjNVpOV2o4T01CYk5jUnJIQl85SU1jZFM4YzBwSlBUQm1jU0s2S2FkQnNa0gHjAUFVX3lxTE5tTUVIX2VTdzcxc0RaTEsxU1kxVnQydHpBY0RKczhNWEJMd1pGOWdQMlNYdXp6dW1MREpUbzF6eE9VUk85NFNJc3AtUXdPR05vbldET01BTHlXVFYxS2hwc3c4a3Z2VUpNODNBWFV2VzVCbGU0TjF3RXExLWMwV1hnQTRtM1dqNUJaLWs4QXBTLXZ0bTRxX0doRHI0NWZWSHVLUzZkaHhpUUxEQmk0RW9jV2VRbTZvOGgycUVPMGctMmprNDBRV2oxU0VpMEZQZGowXzNfNmFTN0RZOWJ1NTZGTkdV?oc=5",
+    "published": "2026-11-21 07:40 UTC"
   },
   {
     "category": "Technology",
@@ -119,32 +133,11 @@
     "published": "2026-11-21 07:35 UTC"
   },
   {
-    "category": "India",
-    "source": "Google News",
-    "title": "PM Modi says India has shown it can break limits, unlock possibilities - The Hindu",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGR6eWtxcENSMHZUVnpIaEg1bVN4anRZYzhuaUxtSXFsMmhJS2hRNEpWTFI1elZWZjhUODQ1Z3R5bkRuMHZqZjZFdGN5QTdGNFhEcHpBX0pOaEVuQjlPXzhHd2d6TU9LaHhqcTNERGJTTUgyWk81MXBvQjhRSS1JSFljS0JBQW5MQ19qX2gwbzRwSzdybWtucDQ1U2NhWE11UVAzOWdKa2JUWnBjV2FNdnFB0gG4AUFVX3lxTE93dDloVXJ2X0tGc1RUWVBZWEhxVElXTkZrOEU5eDBEbjQwWWVHN3lfV3lxaFhQclNJOG1PWEI1c0w2Q0wtd1NQWnFKaU5CV1pYeFV4Rzk5bHNZYjFoMmN4bkZDZ0MzOUZadTNYRnBZUjc0RkZ5UG5YOF9xY2JWbV9GZlJncGs0X2loRWtCeHp6cXpKZ2l4bnRFOG5zQmdzeUljM3ZPNEt1cVBGV0Fad1QzaExCclJHX2g?oc=5",
-    "published": "2026-11-21 07:19 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "Sam Houser, the Rockstar gamer behind ‘Grand Theft Auto’ - Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEtiUEtVVW9fVFZEa280MUlWY2dvMVhzWFloZTBLRFdYTzVHZTFXT2tpWmpXTWJ2cUpUZjFUMkJhR0NvWEdOU3hjbTFNZXFPbWhYekd0Z0ltemdFY000MDZocFBUYW1mVlZaY24xSDJmVWNpWEQxQ3RhOFBwM1BLQl9yZHA?oc=5",
-    "published": "2026-11-21 05:00 UTC"
-  },
-  {
     "category": "World",
     "source": "BBC",
     "title": "Man convicted of starting Palisades fire in Los Angeles",
     "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
     "published": "2026-11-21 04:34 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "NFL will consider requiring minimum-night stays for international games - NBC Sports",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQanR5R1NNMTBaR3ZBbkdVUnpwZ253Y0pTTWdDdVhZRGRtSFdTSmpLSHdPcG9NYk1tcjlERkhCcFVfbjdvX2Z0bnVxV2toQXhKMXgySEJreFYtTGM5dk16eEtOUmUwSldGNHVIYnM1T1hmeFoybWhRVXRDTF9oM3drVE5sSUdpOERFdGExaUc4THItVWI2N0h2MkpTdnQwbzlyQ0NmTFJETG9JUTN1cDQzcW5tbEVJNllPY2VZazFYZmI3RjNUZDdNSlJZQVRoQQ?oc=5",
-    "published": "2026-11-21 04:10 UTC"
   },
   {
     "category": "India",
@@ -161,13 +154,6 @@
     "published": "2026-11-21 02:17 UTC"
   },
   {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Revised Protect College Sports Act allows conferences to expand up to 22 schools - ESPN",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0did095ZVhWQnFSNHAtV216QWdyVDJ6TVFzZERuX3UxV3FiMjgyM2ZzNmlfbTNSWl9Va2QwZURWTmd6Y0p4TjJyQlhvUWgwMmJsaHRhNy1seDRESUZWTDlMVkIzbFRQdlNuVXlmVkE2bWJYWXVtekxNU3NEN21FcWoyYVlKWUczdjBDUVZQY2lJNmN3Q01ncTBhdlF4Tm5ZSE9QeTluZ0tqLUVCRmdicFdpMENJcWI5YVE?oc=5",
-    "published": "2026-11-21 01:16 UTC"
-  },
-  {
     "category": "India",
     "source": "Google News",
     "title": "Stung by PM Modi's criticism, India Inc fears government may turn cold on tax concessions - The Times of India",
@@ -177,14 +163,7 @@
   {
     "category": "World",
     "source": "BBC",
-    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-    "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-21 00:01 UTC"
-  },
-  {
-    "category": "World",
-    "source": "BBC",
-    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
     "published": "2026-11-20 23:08 UTC"
   },
@@ -203,81 +182,11 @@
     "published": "2026-11-20 22:37 UTC"
   },
   {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "Video games like ‘Grand Theft Auto VI’ may have surprising brain benefits - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFJ4SDlEYWhtd0xJcWNCbWtpZUp0MHZ4Q2YyWTgtVEhYSF96LXNWLW8weV9MNkplbVY1dUFnUHB6UjRuNTlkYVBnVmZlWjlqQ1BkcV9wTTVvOTEzZmtyZl9xTV96SFNPOGpjelp2VWJqeUVIZ25VbHhnSXdkdDVCazVvcTU4QUg4N3lWU0VYaEUyWm1WR0R4eVo3dTRTNGRUakJzVko2UFZjUUJvdy1JU0RpaVREcTFRTTUtN2VpR0szdw?oc=5",
-    "published": "2026-11-20 22:10 UTC"
-  },
-  {
     "category": "Technology",
     "source": "Google News",
     "title": "Market Wrap: Stocks Lose 8.51% as Technology and Basic Materials Fall - Morningstar",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXJJdDY5RnV2X0RxcXpCTmFEOVZXcm9tdnFLOGpSaGVEUUtOX2l1dU0tOUdVSmdOc3VkbFhVMTZuOWgydWRyMlY4V2x2QnBvUkVRSXVZc3JzT3RnUUxaSm5BZU81VmVQenh6aWJoeFlJQ0xxMlVWc2xzck45SHdTRVVBeHhGSEhVNlFpMEx0Zm1yQmpYQ0FwVTlqbw?oc=5",
     "published": "2026-11-20 21:51 UTC"
-  },
-  {
-    "category": "Technology",
-    "source": "Google News",
-    "title": "AI may have solved the most important problem in mathematics - The Economist",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY256NUZxVFdCVEZCamFBLV90OXFrMGJaZTJWcDBtaGFyMGxjUjExSko2bUU0VzZKeFBZazJQblBrUS1VdkJOWEl1MG1idkFVSkV3S3lFSTJQMXVJaWpnZF9oZFQ3d0dVcjJmU0F0eXV1VzUzYXdOUUZVX09xcEE1eGE3VWpqeWR5WnduVEx6MUw5bzBfYlFyLU1nQWZ5LW0zMHFRNTFEQzlCUGU3SXpRUVY1eDR2M0N6bHF6ZA?oc=5",
-    "published": "2026-11-20 21:41 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "‘Grand Theft Auto VI’ is a hit everywhere — except the U.S. Senate - NBC News",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEZOUDJZdlBGUGlkNEl6VTJ0V2pXNmtqOVBzN3V0SnJNRV9hOTcwY1lfUG92X29IVVdxaTJJQ05KNFNXdWdUVnhkWm5Ka3ZNSl9GNlBnaWNVTllCR3RHTU96Smg3T1dPdGpkWTJBVFpEWVpJdDJZXy1JRDRSTTh5R1lPSVlpTGZjTlA1YVNRVjBrVllWdGlsT1didnp0UTZJTWE5SzdBdGo0elpGWTh4YVhlYw?oc=5",
-    "published": "2026-11-20 21:37 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Daniel Jones released by Colts: Why QB's contract almost ensures he'll clear waivers, be free agent - CBS Sports",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzBwNmpxeTBPQVI1SmVYY3dhWmIwcXY2U3MxczdCa25TdHd1SF9jUHE5c3VuZ0tlOHY0UEpfY3ZpbE90YzZWTE02Z0VROWVyYWZrbEp1M3NMSzFlTU1uRGxnNnV2SkF0a2VETF9aRVdib1U1NjJzdnk2NF8wY1V3UTBoengxMmd1bGo1bmNTYnFSM3M5cjBOa0dNWWs1WU1wRGh4TDByQnl1WlR4Z1YwQXRR?oc=5",
-    "published": "2026-11-20 20:40 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Leafs meet with Rory McIlroy and his sports psychologist; cancel practice after 8 consecutive losses - The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGJIbFlBUTRQc1g1SFliN0Z1dVJqcnFJN0VDa1hIcnNSQUlGU3E1WWl6VGpMZ3FIZ0FqTUxER3l0MjdWeVptVnB6LTAxbk0zS1V2UE85UmM2UHBpZkE5OS1PakUzMEVNY2JHeUlCdmkyUnBYTmYyRmUtcXRiZzdsUzBpZGdZRGd4VXowbnR2akxfS1dCVGlCam9fTDUtQW9FdVpGaHlheTR4a1U?oc=5",
-    "published": "2026-11-20 19:52 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Trump opens door to deals with Democrats on healthcare, Hollywood, college sports - The Hill",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNckFoUmpfcWlwcTc5RnRJT0tFV0xVbk5hRDhTaVNQQW9LdHhHYW8zU3hDd01sX3V4RGpOOUIyZmZtNy0tWkZhV0dxTWgxVGY2azkzM2ExU1F4cjRTS0JCcWtoVkgwak9lUjRBd3pIdm02SXhuZ0R1TVJNd0FVa3FPeEF0SUtTeGwyUGhTdXMyTUQ3emVob3FrNE82TdIBoAFBVV95cUxOSXVqR1g4WkxvbTZQSnlSbW1XNjBWRFM4QmJORk9lMjFxNTk3TkdHNDM3amxMVUlpTnExVmVaR1hIOHlwVFNPMFlOY1k0eE5wRVQ4bHRzZWdHVzFqMzFXUkN6dEZMczdERzh5YTNwZ1B4Z1p3ZjliaHUtN29XSXZ5S2ZLZzlVQzI1LUZpQzNJMVo2eGMzQzhNWUFtbUtfZU1h?oc=5",
-    "published": "2026-11-20 19:26 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales - Business Wire",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPb2pVeGgtM1N3LXlGOGFWM1NJZThpVDV0eUtmMF9aZ0xDZ2dCZl96Q2liMmZSRXZtWjhDNmFqejdKTFBoOEFRb3FvUmIyRk5nbGd2TGdwYUo2ZnRtWHZNaHNNUlBtT2FRbk43SXNXUDlEOVFSMy0tdUp0eFE0SER5QzRtNmN1YXdEMmlyVV9mM3dpVHVyUC01RnI3aHFpTnE5UDVxamNndUcxUGMta3J6em5VeFFYbUdEa1BPU3NYMVZVNTJqbDRvT1N5WUpJRmFsU3Zab043OWlFNVZVTEFmS2xTNW9pdHZGaWxVeHlrVHlBbWlickE?oc=5",
-    "published": "2026-11-20 19:20 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "Saudi Arabia once banned Grand Theft Auto. Now it's got a stake in it - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMG53SC1KYUp2Q3A2WVBSZ05ERERva3hzeFg1VXY0N0xzNERWVzd1N3VmMXpGQkVIOTIzY2NWSmFfcXVMNXFQd1dNeTlpeTNWclBZTy04ZV81aE81U2VHOTJ6cGNNMWVwUldpQ3NWSV9jd0l0RHBOUzJINzg5Rm80a08yZDVheFl5eER2cWxwWVBrMmttOGVUaFM3aThwdW94dnczUmtESTJNU3liZEE?oc=5",
-    "published": "2026-11-20 19:06 UTC"
-  },
-  {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Colts’ mismanagement continues with release of QB Daniel Jones - NBC Sports",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWc1NklPQ1JtbXIwUDdGb1VPX3AyS29UNTNQRm9lLXllQ0FMbnpnOVR0QUNWMjVPcjNRWmhmU3VaU0xib01IbXlWNTM3QTVoVkRmOXBvU0x4bzh2WEJWZTlWcVBYNHVoSFY3UVBrUERNZkdVR3dwT1lvQTN4RjdRY05wS0w3dzA2cXJfZklzRkJ3UmU3bmFUZDBvbHRRWHhXdjUtOHlVRzdDQWlhNVBFRkZPNVk2LVBQbERORlJpSXE?oc=5",
-    "published": "2026-11-20 19:02 UTC"
-  },
-  {
-    "category": "India",
-    "source": "Google News",
-    "title": "'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5",
-    "published": "2026-11-20 18:44 UTC"
   },
   {
     "category": "Technology",
@@ -294,59 +203,10 @@
     "published": "2026-11-20 18:15 UTC"
   },
   {
-    "category": "Sports",
-    "source": "Google News",
-    "title": "Daniel Jones released by Colts as Anthony Richardson Sr. takes over as starter - Yahoo Sports",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX2M5WElmNjRHaVc2dVZtbXduUVdJLTk5cHppYWVMM24ydlNqRVllaE12NUdwTkJyWTVFWjFVNlRESTFlNUY3ZF9RWmhRRjJnZlkxTG95bExPVkxSblNrNDNOdjk5Ni0wTDFyZVhzX3R3MURUZ1FkU1N0U0xrbE16M2p4bG1WNXNOWndJSXdXTk5LbnJBQVJraHRJZE1UbUZlSUJJWjljZGpCTmpFYzV3RURlaHgzaUZtelpSOWhNQzhFYzNvOFl1bXQ2a0xTZ0pzSFFCUXZEemhwRTQ?oc=5",
-    "published": "2026-11-20 18:12 UTC"
-  },
-  {
-    "category": "India",
-    "source": "Google News",
-    "title": "Prince, Rana rout Nepal for 26 after Tilak, Kushagra tons - Cricinfo",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUhvWXYyalBadG44TWt2MncwS0tzX0FPMjBFR3czcTRCczFoS2lXT2NXZ1lFZDFyWVRadGNpYWoxcEQxMlpzQ1I0UjhHMzdvUmE0NnBOTFJhZ3lIdGxEWjZQR0hOejFmQnRuS3BQazA3V3phd0NzU3ZYOE5mNFo3MFByT2k4Q1RBUXJTZmR2Q0h1VkE0NlJaZkFVNlZzdFlKYWx2Tm9FX1A1a2NqQWZ4clpHWjl0VEYyNWVvNkVXa0QxVGVabmEwcWpTUTlYTXM?oc=5",
-    "published": "2026-11-20 16:31 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "Next Week on XBOX: New Games for November 23 to 27 - XBOX Wire",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGRwb2syYzlpbjJtTi1IcHZzTE5hcmpYY0FqLWFlazRLVUdUMFhEbmxzdmY3alJLZ2hjekJlOEZjb19QMThWa3JXMkhNeWZpMHl2MElrbFV4ZWR6azFkWUNVV095cmdnNXdfUENVc3VfVktnel9jUEw4dlkzME56eWpOS0prUG5oTngwcFFfeEpXLTTSAZgBQVVfeXFMTlctZlBoOXk1Y0hYSjBZLXhWeGFHZVVxeFdlX3VjNTBvdWt4QjRoV3ZqUlgxYXNEY0Q0WmpxQjMwamQ0Nkl4UFMxVWU4SFhoZ1VkTzljTUY5c05Va0FtOE1tcUcteXBHaU4wdmlBWjdyZXZSOThNS2pPY2Nnc3luOGZmbUJOWnRVcEF4Z3FORDB4bzJLbzVBOEk?oc=5",
-    "published": "2026-11-20 15:01 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "Nvidia is in turmoil. Should AMD double down on gaming? - PCWorld",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOWF0QkdaYzVydEJyMm8wQUpiU08tUGk2S3I5RWRPWnFQYUNIVVQ2M3BMaXh0Si1iRE5vS1RSVGVrYnJXbnhOSVgtTE1zZW1HZnZhd1hLY3lHa0VZbDhwNFlGTlBrRXVsTU1hbk8ydmVmWFJhd3E4eVQycGx0NDdRcHVVRXpzaTA2MklSLUNSV0NoWmNyLXh4d1NZMkVaa2c?oc=5",
-    "published": "2026-11-20 14:01 UTC"
-  },
-  {
     "category": "Technology",
     "source": "Google News",
-    "title": "Vietnam shifts FDI focus from jobs and factories to technology - Nikkei Asia",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMjR2cVhoaENUUjRaNDRoWl9MOFFwazF2akNBSFJ4TkdSNE4yQkVtOWlfODVDVXo0Y3Bua3YydkF0bE0tUlNyXzcyMnFiTkhvTk5TRmtoTTdlWVlPTjhvRFJLOER2dnFRa1pEYW54Z2lLdk8tNUZneUFHSEVWTVVTbnZaMUZSWDFZRmE2eHRRZkJ1N3FjRlZwN0lCNFllNEFJYVJuYkh3TW5Ra1U?oc=5",
-    "published": "2026-11-20 08:41 UTC"
-  },
-  {
-    "category": "Technology",
-    "source": "Google News",
-    "title": "Marvell Technology (MRVL) Settles AI Networking Patent Dispute And Clears A Key Risk - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORG5aMy12UUthWlVSOV9GTkJHeFg2TmFVQkdjZEFnWWh5dmFQOVFpMTJ2eXRZU0N4MnhBY1p1NUtzLU1pYmxKdFhnUkwyMkZtaU1DXzJyVDd3bUozMmFwU3Z0WWJVaVRab2x4Qnl6bHR2TkZ2SU9adnV0U1N5cTZ0dTEwTnVISG9BMTZoQ1ZYUWcwYzVVaEM1dk1qd3RKdFk?oc=5",
-    "published": "2026-11-19 22:09 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "Ranked: The Highest-Rated Video Games of All Time - Visual Capitalist",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kTmZBbE9IemdGTndJbzZ1TUljdUNaU2NSelBIMVNTbWRlOVQzcHc3S3RwQnIxNUlsOFlPWWh1X0JxSS1mWF9jR0o2VDBOeXc4OFFoelZHNGV2a0laVmowR3BPOVZBeHhRRWNSVElIYS1EZmJ5RHJBa1AtWUw0Zw?oc=5",
-    "published": "2026-11-19 08:00 UTC"
-  },
-  {
-    "category": "Gaming",
-    "source": "Google News",
-    "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off - CNBC",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GLXV6dVp1X1M2dUQtNHR5NUY5dHdWbnJpbHdKYnU3Q0prMnFKTmk2bTdlb19VOHRSdFVabG04TFpWMzJUYTFzb1ktYi1Id09nUWRHZUlSbmJnSWRlekxLMVZDU1Q5X083c0MyR0VhUnFoYVh30gF6QVVfeXFMTXRRZ2p5eXRCZDRNcUh1MEIxNEo0QzZvS3pMaG03ZWxvVV83LTk1bGZBRHFhbnBCdlYta2dNTXkzRk5kQ0loVmczeXJsWGNla3BWb3VNS1p2UVdmLW5sSzAtODN1S291dGRnVVN5RDdXRmNKMC1vMHQtT3c?oc=5",
-    "published": "2026-11-14 14:00 UTC"
+    "title": "UK and US deepen transport partnership to boost growth, strengthen aviation and back next-generation technology - GOV.UK",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcFc4S0pXQ2tfTWRXU0hPbXR3V0dPc2ROX0FMSEJXdG0zWEtyNEpQT0lZTkdPVUhxZVhGT0hGQzVPeXNua3hXRzRTdXI1U2F5SFozanUwQ1BWc0kzYzFXd3JwaDZ0M2RWMUstak5vVkp2S09vc1FEWG05blc4NFFJaXVpa2RNVEhvbUtiZGlteEdTbFpSUWE5d2xxcS1INWZJZ182TkxyZEV1VmI4R1E3eEtOWV80LW5ES2dNWGZiNXQyOXJ1ZkFHNEtjWExnM1ZDS2hBM1NrR1FZYzdrSnc?oc=5",
+    "published": "2026-11-20 17:18 UTC"
   }
 ]
